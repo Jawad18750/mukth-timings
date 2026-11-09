@@ -1,0 +1,177 @@
+{
+  "reciter": "moaad_benhamed",
+  "surah": 110,
+  "detected_surah": 110,
+  "surah_mismatch": false,
+  "surahs_present": [
+    110
+  ],
+  "alternate_source": false,
+  "chunk_window": 10.5,
+  "segments": [
+    {
+      "segment": 1,
+      "time_from": 10.256,
+      "time_to": 18.336,
+      "ref_from": "110:1:5",
+      "ref_to": "110:2:7",
+      "matched_text": "وَالْفَتْحُ وَرَأَيْتَ اَ۬لنَّاسَ يَدْخُلُونَ فِے دِينِ اِ۬للَّهِ أَفْوَاجاٗ",
+      "confidence": 0.933,
+      "has_missing_words": false,
+      "has_repeated_words": false,
+      "special_type": null,
+      "error": null,
+      "words": [
+        {
+          "word": "وَالْفَتْحُ",
+          "location": "110:1:5",
+          "start": 0.0,
+          "end": 0.48
+        },
+        {
+          "word": "وَرَأَيْتَ",
+          "location": "110:2:1",
+          "start": 0.48,
+          "end": 1.68
+        },
+        {
+          "word": "اَ۬لنَّاسَ",
+          "location": "110:2:2",
+          "start": 2.16,
+          "end": 2.56
+        },
+        {
+          "word": "يَدْخُلُونَ",
+          "location": "110:2:3",
+          "start": 3.28,
+          "end": 4.56
+        },
+        {
+          "word": "فِے",
+          "location": "110:2:4",
+          "start": 4.56,
+          "end": 4.96
+        },
+        {
+          "word": "دِينِ",
+          "location": "110:2:5",
+          "start": 4.96,
+          "end": 5.84
+        },
+        {
+          "word": "اِ۬للَّهِ",
+          "location": "110:2:6",
+          "start": 5.84,
+          "end": 6.24
+        },
+        {
+          "word": "أَفْوَاجاٗ",
+          "location": "110:2:7",
+          "start": 6.64,
+          "end": 8.24
+        }
+      ]
+    },
+    {
+      "segment": 2,
+      "time_from": 20.377,
+      "time_to": 28.611,
+      "ref_from": "110:2:1",
+      "ref_to": "110:2:7",
+      "matched_text": "",
+      "confidence": 0.75,
+      "has_missing_words": true,
+      "has_repeated_words": false,
+      "special_type": null,
+      "error": null,
+      "words": []
+    },
+    {
+      "segment": 3,
+      "time_from": 28.971,
+      "time_to": 32.011,
+      "ref_from": "110:3:1",
+      "ref_to": "110:3:3",
+      "matched_text": "فَسَبِّحْ بِحَمْدِ رَبِّكَ",
+      "confidence": 0.75,
+      "has_missing_words": false,
+      "has_repeated_words": false,
+      "special_type": null,
+      "error": null,
+      "words": [
+        {
+          "word": "فَسَبِّحْ",
+          "location": "110:3:1",
+          "start": 0.0002,
+          "end": 1.0402
+        },
+        {
+          "word": "بِحَمْدِ",
+          "location": "110:3:2",
+          "start": 1.0402,
+          "end": 1.7602
+        },
+        {
+          "word": "رَبِّكَ",
+          "location": "110:3:3",
+          "start": 1.8402,
+          "end": 2.7202
+        }
+      ]
+    },
+    {
+      "segment": 4,
+      "time_from": 32.477,
+      "time_to": 34.477,
+      "ref_from": "110:3:4",
+      "ref_to": "110:3:4",
+      "matched_text": "وَاسْتَغْفِرْهُۖ",
+      "confidence": 0.6,
+      "has_missing_words": false,
+      "has_repeated_words": false,
+      "special_type": null,
+      "error": null,
+      "words": [
+        {
+          "word": "وَاسْتَغْفِرْهُۖ",
+          "location": "110:3:4",
+          "start": 0.0,
+          "end": 1.2
+        }
+      ]
+    },
+    {
+      "segment": 5,
+      "time_from": 34.699,
+      "time_to": 40.139,
+      "ref_from": "110:3:5",
+      "ref_to": "110:3:7",
+      "matched_text": "إِنَّهُۥ كَانَ تَوَّاباَۢۖ",
+      "confidence": 1.0,
+      "has_missing_words": false,
+      "has_repeated_words": false,
+      "special_type": null,
+      "error": null,
+      "words": [
+        {
+          "word": "إِنَّهُۥ",
+          "location": "110:3:5",
+          "start": 0.0,
+          "end": 1.44
+        },
+        {
+          "word": "كَانَ",
+          "location": "110:3:6",
+          "start": 1.6,
+          "end": 2.0
+        },
+        {
+          "word": "تَوَّاباَۢۖ",
+          "location": "110:3:7",
+          "start": 2.32,
+          "end": 3.68
+        }
+      ]
+    }
+  ]
+}

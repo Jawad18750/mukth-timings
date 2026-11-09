@@ -1,0 +1,157 @@
+{
+  "reciter": "moaad_benhamed",
+  "surah": 112,
+  "detected_surah": 112,
+  "surah_mismatch": false,
+  "surahs_present": [
+    112
+  ],
+  "alternate_source": false,
+  "chunk_window": 10.5,
+  "segments": [
+    {
+      "segment": 1,
+      "time_from": 0.64,
+      "time_to": 4.24,
+      "ref_from": "",
+      "ref_to": "",
+      "matched_text": "بِسْمِ ٱللَّهِ ٱلرَّحْمَٰنِ ٱلرَّحِيم",
+      "confidence": 0.652,
+      "has_missing_words": false,
+      "has_repeated_words": false,
+      "special_type": "Basmala",
+      "error": null,
+      "words": [
+        {
+          "word": "بِسْمِ",
+          "location": "0:0:1",
+          "start": 0.0,
+          "end": 0.64
+        },
+        {
+          "word": "ٱلرَّحْمَٰنِ",
+          "location": "0:0:3",
+          "start": 1.2,
+          "end": 2.32
+        },
+        {
+          "word": "ٱلرَّحِيم",
+          "location": "0:0:4",
+          "start": 2.4,
+          "end": 3.28
+        }
+      ]
+    },
+    {
+      "segment": 2,
+      "time_from": 8.06,
+      "time_to": 10.06,
+      "ref_from": "112:2:1",
+      "ref_to": "112:2:2",
+      "matched_text": "اِ۬للَّهُ اُ۬لصَّمَدُۖ",
+      "confidence": 0.963,
+      "has_missing_words": false,
+      "has_repeated_words": false,
+      "special_type": null,
+      "error": null,
+      "words": [
+        {
+          "word": "اِ۬للَّهُ",
+          "location": "112:2:1",
+          "start": 0.0,
+          "end": 0.24
+        },
+        {
+          "word": "اُ۬لصَّمَدُۖ",
+          "location": "112:2:2",
+          "start": 0.56,
+          "end": 1.6
+        }
+      ]
+    },
+    {
+      "segment": 3,
+      "time_from": 10.46,
+      "time_to": 13.18,
+      "ref_from": "112:3:1",
+      "ref_to": "112:3:4",
+      "matched_text": "لَمْ يَلِدْ وَلَمْ يُولَدْۖ",
+      "confidence": 0.963,
+      "has_missing_words": false,
+      "has_repeated_words": false,
+      "special_type": null,
+      "error": null,
+      "words": [
+        {
+          "word": "لَمْ",
+          "location": "112:3:1",
+          "start": 0.0,
+          "end": 0.4
+        },
+        {
+          "word": "يَلِدْ",
+          "location": "112:3:2",
+          "start": 0.64,
+          "end": 1.28
+        },
+        {
+          "word": "وَلَمْ",
+          "location": "112:3:3",
+          "start": 1.28,
+          "end": 1.6
+        },
+        {
+          "word": "يُولَدْۖ",
+          "location": "112:3:4",
+          "start": 1.84,
+          "end": 2.88
+        }
+      ]
+    },
+    {
+      "segment": 4,
+      "time_from": 14.483,
+      "time_to": 18.083,
+      "ref_from": "112:4:1",
+      "ref_to": "112:4:5",
+      "matched_text": "وَلَمْ يَكُن لَّهُۥ كُفُؤاً أَحَدُۢۖ",
+      "confidence": 0.95,
+      "has_missing_words": false,
+      "has_repeated_words": false,
+      "special_type": null,
+      "error": null,
+      "words": [
+        {
+          "word": "وَلَمْ",
+          "location": "112:4:1",
+          "start": 0.0,
+          "end": 0.24
+        },
+        {
+          "word": "يَكُن",
+          "location": "112:4:2",
+          "start": 0.4,
+          "end": 1.2
+        },
+        {
+          "word": "لَّهُۥ",
+          "location": "112:4:3",
+          "start": 1.2,
+          "end": 1.52
+        },
+        {
+          "word": "كُفُؤاً",
+          "location": "112:4:4",
+          "start": 1.68,
+          "end": 2.88
+        },
+        {
+          "word": "أَحَدُۢۖ",
+          "location": "112:4:5",
+          "start": 2.96,
+          "end": 3.36
+        }
+      ]
+    }
+  ]
+}

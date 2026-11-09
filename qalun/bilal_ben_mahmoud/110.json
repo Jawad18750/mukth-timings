@@ -1,0 +1,226 @@
+{
+  "reciter": "bilal_ben_mahmoud",
+  "surah": 110,
+  "detected_surah": 110,
+  "surah_mismatch": false,
+  "surahs_present": [
+    110
+  ],
+  "alternate_source": false,
+  "chunk_window": 10.5,
+  "segments": [
+    {
+      "segment": 1,
+      "time_from": 0.32,
+      "time_to": 3.36,
+      "ref_from": "",
+      "ref_to": "",
+      "matched_text": "بِسْمِ ٱللَّهِ ٱلرَّحْمَٰنِ ٱلرَّحِيم",
+      "confidence": 1.0,
+      "has_missing_words": false,
+      "has_repeated_words": false,
+      "special_type": "Basmala",
+      "error": null,
+      "words": [
+        {
+          "word": "بِسْمِ",
+          "location": "0:0:1",
+          "start": 0.0,
+          "end": 0.64
+        },
+        {
+          "word": "ٱللَّهِ",
+          "location": "0:0:2",
+          "start": 0.64,
+          "end": 0.88
+        },
+        {
+          "word": "ٱلرَّحْمَٰنِ",
+          "location": "0:0:3",
+          "start": 1.28,
+          "end": 2.32
+        },
+        {
+          "word": "ٱلرَّحِيم",
+          "location": "0:0:4",
+          "start": 2.56,
+          "end": 3.44
+        }
+      ]
+    },
+    {
+      "segment": 2,
+      "time_from": 4.51,
+      "time_to": 9.39,
+      "ref_from": "110:1:1",
+      "ref_to": "110:1:5",
+      "matched_text": "إِذَا جَآءَ نَصْرُ اُ۬للَّهِ وَالْفَتْحُ",
+      "confidence": 1.0,
+      "has_missing_words": false,
+      "has_repeated_words": false,
+      "special_type": null,
+      "error": null,
+      "words": [
+        {
+          "word": "إِذَا",
+          "location": "110:1:1",
+          "start": 0.0,
+          "end": 0.24
+        },
+        {
+          "word": "جَآءَ",
+          "location": "110:1:2",
+          "start": 0.48,
+          "end": 2.0
+        },
+        {
+          "word": "نَصْرُ",
+          "location": "110:1:3",
+          "start": 2.0,
+          "end": 2.72
+        },
+        {
+          "word": "اُ۬للَّهِ",
+          "location": "110:1:4",
+          "start": 2.88,
+          "end": 3.28
+        },
+        {
+          "word": "وَالْفَتْحُ",
+          "location": "110:1:5",
+          "start": 3.6,
+          "end": 4.4
+        }
+      ]
+    },
+    {
+      "segment": 3,
+      "time_from": 10.056,
+      "time_to": 16.216,
+      "ref_from": "110:2:1",
+      "ref_to": "110:2:7",
+      "matched_text": "وَرَأَيْتَ اَ۬لنَّاسَ يَدْخُلُونَ فِے دِينِ اِ۬للَّهِ أَفْوَاجاٗ",
+      "confidence": 0.947,
+      "has_missing_words": false,
+      "has_repeated_words": false,
+      "special_type": null,
+      "error": null,
+      "words": [
+        {
+          "word": "وَرَأَيْتَ",
+          "location": "110:2:1",
+          "start": 0.0,
+          "end": 0.96
+        },
+        {
+          "word": "اَ۬لنَّاسَ",
+          "location": "110:2:2",
+          "start": 0.96,
+          "end": 1.36
+        },
+        {
+          "word": "يَدْخُلُونَ",
+          "location": "110:2:3",
+          "start": 1.68,
+          "end": 3.04
+        },
+        {
+          "word": "فِے",
+          "location": "110:2:4",
+          "start": 3.04,
+          "end": 3.36
+        },
+        {
+          "word": "دِينِ",
+          "location": "110:2:5",
+          "start": 3.36,
+          "end": 4.08
+        },
+        {
+          "word": "اِ۬للَّهِ",
+          "location": "110:2:6",
+          "start": 4.08,
+          "end": 4.4
+        },
+        {
+          "word": "أَفْوَاجاٗ",
+          "location": "110:2:7",
+          "start": 4.64,
+          "end": 6.32
+        }
+      ]
+    },
+    {
+      "segment": 4,
+      "time_from": 17.306,
+      "time_to": 21.466,
+      "ref_from": "110:3:1",
+      "ref_to": "110:3:4",
+      "matched_text": "فَسَبِّحْ بِحَمْدِ رَبِّكَ وَاسْتَغْفِرْهُۖ",
+      "confidence": 1.0,
+      "has_missing_words": false,
+      "has_repeated_words": false,
+      "special_type": null,
+      "error": null,
+      "words": [
+        {
+          "word": "فَسَبِّحْ",
+          "location": "110:3:1",
+          "start": 0.0,
+          "end": 0.88
+        },
+        {
+          "word": "بِحَمْدِ",
+          "location": "110:3:2",
+          "start": 0.88,
+          "end": 1.6
+        },
+        {
+          "word": "رَبِّكَ",
+          "location": "110:3:3",
+          "start": 1.68,
+          "end": 2.56
+        },
+        {
+          "word": "وَاسْتَغْفِرْهُۖ",
+          "location": "110:3:4",
+          "start": 2.56,
+          "end": 4.32
+        }
+      ]
+    },
+    {
+      "segment": 5,
+      "time_from": 22.251,
+      "time_to": 27.051,
+      "ref_from": "110:3:5",
+      "ref_to": "110:3:7",
+      "matched_text": "إِنَّهُۥ كَانَ تَوَّاباَۢۖ",
+      "confidence": 1.0,
+      "has_missing_words": false,
+      "has_repeated_words": false,
+      "special_type": null,
+      "error": null,
+      "words": [
+        {
+          "word": "إِنَّهُۥ",
+          "location": "110:3:5",
+          "start": 0.0,
+          "end": 1.84
+        },
+        {
+          "word": "كَانَ",
+          "location": "110:3:6",
+          "start": 2.0,
+          "end": 2.4
+        },
+        {
+          "word": "تَوَّاباَۢۖ",
+          "location": "110:3:7",
+          "start": 2.88,
+          "end": 4.56
+        }
+      ]
+    }
+  ]
+}

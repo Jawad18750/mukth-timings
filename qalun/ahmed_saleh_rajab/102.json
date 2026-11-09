@@ -1,0 +1,340 @@
+{
+  "reciter": "ahmed_saleh_rajab",
+  "surah": 102,
+  "detected_surah": 102,
+  "surah_mismatch": false,
+  "surahs_present": [
+    102
+  ],
+  "alternate_source": false,
+  "chunk_window": 10.5,
+  "segments": [
+    {
+      "segment": 1,
+      "time_from": 0.24,
+      "time_to": 2.72,
+      "ref_from": "",
+      "ref_to": "",
+      "matched_text": "بِسْمِ ٱللَّهِ ٱلرَّحْمَٰنِ ٱلرَّحِيم",
+      "confidence": 0.958,
+      "has_missing_words": false,
+      "has_repeated_words": false,
+      "special_type": "Basmala",
+      "error": null,
+      "words": [
+        {
+          "word": "بِسْمِ",
+          "location": "0:0:1",
+          "start": 0.0,
+          "end": 0.56
+        },
+        {
+          "word": "ٱللَّهِ",
+          "location": "0:0:2",
+          "start": 0.56,
+          "end": 0.8
+        },
+        {
+          "word": "ٱلرَّحْمَٰنِ",
+          "location": "0:0:3",
+          "start": 0.96,
+          "end": 2.0
+        },
+        {
+          "word": "ٱلرَّحِيم",
+          "location": "0:0:4",
+          "start": 2.0,
+          "end": 3.76
+        }
+      ]
+    },
+    {
+      "segment": 2,
+      "time_from": 4.19,
+      "time_to": 6.83,
+      "ref_from": "102:1:1",
+      "ref_to": "102:1:2",
+      "matched_text": "أَلْهَىٰكُمُ اُ۬لتَّكَاثُرُ",
+      "confidence": 0.969,
+      "has_missing_words": false,
+      "has_repeated_words": false,
+      "special_type": null,
+      "error": null,
+      "words": [
+        {
+          "word": "أَلْهَىٰكُمُ",
+          "location": "102:1:1",
+          "start": 0.0,
+          "end": 1.2
+        },
+        {
+          "word": "اُ۬لتَّكَاثُرُ",
+          "location": "102:1:2",
+          "start": 1.28,
+          "end": 2.4
+        }
+      ]
+    },
+    {
+      "segment": 3,
+      "time_from": 7.07,
+      "time_to": 10.03,
+      "ref_from": "102:2:1",
+      "ref_to": "102:2:3",
+      "matched_text": "حَتَّىٰ زُرْتُمُ اُ۬لْمَقَابِرَۖ",
+      "confidence": 0.969,
+      "has_missing_words": false,
+      "has_repeated_words": false,
+      "special_type": null,
+      "error": null,
+      "words": [
+        {
+          "word": "حَتَّىٰ",
+          "location": "102:2:1",
+          "start": 0.0,
+          "end": 0.4
+        },
+        {
+          "word": "زُرْتُمُ",
+          "location": "102:2:2",
+          "start": 0.72,
+          "end": 1.84
+        },
+        {
+          "word": "اُ۬لْمَقَابِرَۖ",
+          "location": "102:2:3",
+          "start": 1.84,
+          "end": 2.8
+        }
+      ]
+    },
+    {
+      "segment": 4,
+      "time_from": 10.62,
+      "time_to": 12.86,
+      "ref_from": "102:3:1",
+      "ref_to": "102:3:3",
+      "matched_text": "كَلَّا سَوْفَ تَعْلَمُونَ",
+      "confidence": 0.867,
+      "has_missing_words": false,
+      "has_repeated_words": false,
+      "special_type": null,
+      "error": null,
+      "words": [
+        {
+          "word": "كَلَّا",
+          "location": "102:3:1",
+          "start": 0.0,
+          "end": 0.72
+        },
+        {
+          "word": "سَوْفَ",
+          "location": "102:3:2",
+          "start": 0.72,
+          "end": 1.04
+        },
+        {
+          "word": "تَعْلَمُونَ",
+          "location": "102:3:3",
+          "start": 1.36,
+          "end": 2.4
+        }
+      ]
+    },
+    {
+      "segment": 5,
+      "time_from": 14.307,
+      "time_to": 18.867,
+      "ref_from": "102:4:1",
+      "ref_to": "102:4:4",
+      "matched_text": "ثُمَّ كَلَّا سَوْفَ تَعْلَمُونَۖ",
+      "confidence": 1.0,
+      "has_missing_words": false,
+      "has_repeated_words": false,
+      "special_type": null,
+      "error": null,
+      "words": [
+        {
+          "word": "ثُمَّ",
+          "location": "102:4:1",
+          "start": 0.0,
+          "end": 0.24
+        },
+        {
+          "word": "كَلَّا",
+          "location": "102:4:2",
+          "start": 0.88,
+          "end": 1.76
+        },
+        {
+          "word": "سَوْفَ",
+          "location": "102:4:3",
+          "start": 1.76,
+          "end": 2.08
+        },
+        {
+          "word": "تَعْلَمُونَۖ",
+          "location": "102:4:4",
+          "start": 2.4,
+          "end": 4.64
+        }
+      ]
+    },
+    {
+      "segment": 6,
+      "time_from": 19.096,
+      "time_to": 23.096,
+      "ref_from": "102:5:1",
+      "ref_to": "102:5:5",
+      "matched_text": "كَلَّا لَوْ تَعْلَمُونَ عِلْمَ اَ۬لْيَقِينِۖ",
+      "confidence": 1.0,
+      "has_missing_words": false,
+      "has_repeated_words": false,
+      "special_type": null,
+      "error": null,
+      "words": [
+        {
+          "word": "كَلَّا",
+          "location": "102:5:1",
+          "start": 0.0,
+          "end": 0.8
+        },
+        {
+          "word": "لَوْ",
+          "location": "102:5:2",
+          "start": 0.8,
+          "end": 1.12
+        },
+        {
+          "word": "تَعْلَمُونَ",
+          "location": "102:5:3",
+          "start": 1.2,
+          "end": 2.4
+        },
+        {
+          "word": "عِلْمَ",
+          "location": "102:5:4",
+          "start": 2.4,
+          "end": 2.72
+        },
+        {
+          "word": "اَ۬لْيَقِينِۖ",
+          "location": "102:5:5",
+          "start": 3.12,
+          "end": 4.24
+        }
+      ]
+    },
+    {
+      "segment": 7,
+      "time_from": 24.507,
+      "time_to": 28.347,
+      "ref_from": "102:6:1",
+      "ref_to": "102:6:2",
+      "matched_text": "لَتَرَوُنَّ اَ۬لْجَحِيمَ",
+      "confidence": 1.0,
+      "has_missing_words": false,
+      "has_repeated_words": false,
+      "special_type": null,
+      "error": null,
+      "words": [
+        {
+          "word": "لَتَرَوُنَّ",
+          "location": "102:6:1",
+          "start": 0.0,
+          "end": 1.36
+        },
+        {
+          "word": "اَ۬لْجَحِيمَ",
+          "location": "102:6:2",
+          "start": 1.84,
+          "end": 2.96
+        }
+      ]
+    },
+    {
+      "segment": 8,
+      "time_from": 28.686,
+      "time_to": 34.846,
+      "ref_from": "102:7:1",
+      "ref_to": "102:7:4",
+      "matched_text": "ثُمَّ لَتَرَوُنَّهَا عَيْنَ اَ۬لْيَقِينِ",
+      "confidence": 1.0,
+      "has_missing_words": false,
+      "has_repeated_words": false,
+      "special_type": null,
+      "error": null,
+      "words": [
+        {
+          "word": "ثُمَّ",
+          "location": "102:7:1",
+          "start": 0.0,
+          "end": 0.24
+        },
+        {
+          "word": "لَتَرَوُنَّهَا",
+          "location": "102:7:2",
+          "start": 1.2,
+          "end": 3.2
+        },
+        {
+          "word": "عَيْنَ",
+          "location": "102:7:3",
+          "start": 3.2,
+          "end": 4.0
+        },
+        {
+          "word": "اَ۬لْيَقِينِ",
+          "location": "102:7:4",
+          "start": 4.0,
+          "end": 4.96
+        }
+      ]
+    },
+    {
+      "segment": 9,
+      "time_from": 35.094,
+      "time_to": 43.814,
+      "ref_from": "102:8:1",
+      "ref_to": "102:8:5",
+      "matched_text": "ثُمَّ لَتُسْـَٔلُنَّ يَوْمَئِذٍ عَنِ اِ۬لنَّعِيمِۖ",
+      "confidence": 0.962,
+      "has_missing_words": false,
+      "has_repeated_words": false,
+      "special_type": null,
+      "error": null,
+      "words": [
+        {
+          "word": "ثُمَّ",
+          "location": "102:8:1",
+          "start": 0.0,
+          "end": 0.24
+        },
+        {
+          "word": "لَتُسْـَٔلُنَّ",
+          "location": "102:8:2",
+          "start": 0.96,
+          "end": 2.72
+        },
+        {
+          "word": "يَوْمَئِذٍ",
+          "location": "102:8:3",
+          "start": 3.04,
+          "end": 4.32
+        },
+        {
+          "word": "عَنِ",
+          "location": "102:8:4",
+          "start": 4.32,
+          "end": 4.72
+        },
+        {
+          "word": "اِ۬لنَّعِيمِۖ",
+          "location": "102:8:5",
+          "start": 5.36,
+          "end": 6.48
+        }
+      ]
+    }
+  ]
+}

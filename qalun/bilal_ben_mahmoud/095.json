@@ -1,0 +1,376 @@
+{
+  "reciter": "bilal_ben_mahmoud",
+  "surah": 95,
+  "detected_surah": 95,
+  "surah_mismatch": false,
+  "surahs_present": [
+    95
+  ],
+  "alternate_source": false,
+  "chunk_window": 10.5,
+  "segments": [
+    {
+      "segment": 1,
+      "time_from": 0.32,
+      "time_to": 3.52,
+      "ref_from": "",
+      "ref_to": "",
+      "matched_text": "بِسْمِ ٱللَّهِ ٱلرَّحْمَٰنِ ٱلرَّحِيم",
+      "confidence": 1.0,
+      "has_missing_words": false,
+      "has_repeated_words": false,
+      "special_type": "Basmala",
+      "error": null,
+      "words": [
+        {
+          "word": "بِسْمِ",
+          "location": "0:0:1",
+          "start": 0.0,
+          "end": 0.56
+        },
+        {
+          "word": "ٱللَّهِ",
+          "location": "0:0:2",
+          "start": 0.56,
+          "end": 0.8
+        },
+        {
+          "word": "ٱلرَّحْمَٰنِ",
+          "location": "0:0:3",
+          "start": 1.12,
+          "end": 2.24
+        },
+        {
+          "word": "ٱلرَّحِيم",
+          "location": "0:0:4",
+          "start": 2.32,
+          "end": 3.2
+        }
+      ]
+    },
+    {
+      "segment": 2,
+      "time_from": 3.92,
+      "time_to": 6.44,
+      "ref_from": "95:1:1",
+      "ref_to": "95:1:2",
+      "matched_text": "وَالتِّينِ وَالزَّيْتُونِ",
+      "confidence": 1.0,
+      "has_missing_words": false,
+      "has_repeated_words": false,
+      "special_type": null,
+      "error": null,
+      "words": [
+        {
+          "word": "وَالتِّينِ",
+          "location": "95:1:1",
+          "start": 0.0,
+          "end": 1.04
+        },
+        {
+          "word": "وَالزَّيْتُونِ",
+          "location": "95:1:2",
+          "start": 1.04,
+          "end": 2.32
+        }
+      ]
+    },
+    {
+      "segment": 3,
+      "time_from": 6.64,
+      "time_to": 8.24,
+      "ref_from": "95:2:1",
+      "ref_to": "95:2:2",
+      "matched_text": "وَطُورِ سِينِينَ",
+      "confidence": 1.0,
+      "has_missing_words": false,
+      "has_repeated_words": false,
+      "special_type": null,
+      "error": null,
+      "words": [
+        {
+          "word": "وَطُورِ",
+          "location": "95:2:1",
+          "start": 0.0,
+          "end": 0.72
+        },
+        {
+          "word": "سِينِينَ",
+          "location": "95:2:2",
+          "start": 0.72,
+          "end": 1.76
+        }
+      ]
+    },
+    {
+      "segment": 4,
+      "time_from": 9.06,
+      "time_to": 11.42,
+      "ref_from": "95:3:1",
+      "ref_to": "95:3:3",
+      "matched_text": "وَهَٰذَا اَ۬لْبَلَدِ اِ۬لْأَمِينِ",
+      "confidence": 0.755,
+      "has_missing_words": false,
+      "has_repeated_words": false,
+      "special_type": null,
+      "error": null,
+      "words": [
+        {
+          "word": "وَهَٰذَا",
+          "location": "95:3:1",
+          "start": 0.0,
+          "end": 0.24
+        },
+        {
+          "word": "اَ۬لْبَلَدِ",
+          "location": "95:3:2",
+          "start": 0.56,
+          "end": 1.36
+        },
+        {
+          "word": "اِ۬لْأَمِينِ",
+          "location": "95:3:3",
+          "start": 1.36,
+          "end": 2.24
+        }
+      ]
+    },
+    {
+      "segment": 5,
+      "time_from": 11.54,
+      "time_to": 16.18,
+      "ref_from": "95:4:1",
+      "ref_to": "95:4:6",
+      "matched_text": "لَقَدْ خَلَقْنَا اَ۬لْإِنسَٰنَ فِے أَحْسَنِ تَقْوِيمٖ",
+      "confidence": 0.755,
+      "has_missing_words": false,
+      "has_repeated_words": false,
+      "special_type": null,
+      "error": null,
+      "words": [
+        {
+          "word": "لَقَدْ",
+          "location": "95:4:1",
+          "start": 0.0,
+          "end": 0.4
+        },
+        {
+          "word": "خَلَقْنَا",
+          "location": "95:4:2",
+          "start": 0.48,
+          "end": 1.52
+        },
+        {
+          "word": "اَ۬لْإِنسَٰنَ",
+          "location": "95:4:3",
+          "start": 1.52,
+          "end": 2.72
+        },
+        {
+          "word": "فِے",
+          "location": "95:4:4",
+          "start": 2.72,
+          "end": 3.04
+        },
+        {
+          "word": "أَحْسَنِ",
+          "location": "95:4:5",
+          "start": 3.04,
+          "end": 3.68
+        },
+        {
+          "word": "تَقْوِيمٖ",
+          "location": "95:4:6",
+          "start": 3.68,
+          "end": 4.8
+        }
+      ]
+    },
+    {
+      "segment": 6,
+      "time_from": 16.875,
+      "time_to": 20.155,
+      "ref_from": "95:5:1",
+      "ref_to": "95:5:4",
+      "matched_text": "ثُمَّ رَدَدْنَٰهُ أَسْفَلَ سَٰفِلِينَ",
+      "confidence": 0.909,
+      "has_missing_words": false,
+      "has_repeated_words": false,
+      "special_type": null,
+      "error": null,
+      "words": [
+        {
+          "word": "ثُمَّ",
+          "location": "95:5:1",
+          "start": 0.0,
+          "end": 0.24
+        },
+        {
+          "word": "رَدَدْنَٰهُ",
+          "location": "95:5:2",
+          "start": 0.72,
+          "end": 1.68
+        },
+        {
+          "word": "أَسْفَلَ",
+          "location": "95:5:3",
+          "start": 1.68,
+          "end": 2.4
+        },
+        {
+          "word": "سَٰفِلِينَ",
+          "location": "95:5:4",
+          "start": 2.4,
+          "end": 3.44
+        }
+      ]
+    },
+    {
+      "segment": 7,
+      "time_from": 20.907,
+      "time_to": 27.947,
+      "ref_from": "95:6:1",
+      "ref_to": "95:6:9",
+      "matched_text": "إِلَّا اَ۬لذِينَ ءَامَنُواْ وَعَمِلُواْ اُ۬لصَّٰلِحَٰتِ فَلَهُمْ أَجْرٌ غَيْرُ مَمْنُونٖۖ",
+      "confidence": 0.941,
+      "has_missing_words": false,
+      "has_repeated_words": false,
+      "special_type": null,
+      "error": null,
+      "words": [
+        {
+          "word": "إِلَّا",
+          "location": "95:6:1",
+          "start": 0.0,
+          "end": 0.24
+        },
+        {
+          "word": "اَ۬لذِينَ",
+          "location": "95:6:2",
+          "start": 0.48,
+          "end": 0.88
+        },
+        {
+          "word": "ءَامَنُواْ",
+          "location": "95:6:3",
+          "start": 1.12,
+          "end": 2.16
+        },
+        {
+          "word": "وَعَمِلُواْ",
+          "location": "95:6:4",
+          "start": 2.24,
+          "end": 3.04
+        },
+        {
+          "word": "اُ۬لصَّٰلِحَٰتِ",
+          "location": "95:6:5",
+          "start": 3.04,
+          "end": 4.08
+        },
+        {
+          "word": "فَلَهُمْ",
+          "location": "95:6:6",
+          "start": 4.08,
+          "end": 4.8
+        },
+        {
+          "word": "أَجْرٌ",
+          "location": "95:6:7",
+          "start": 4.8,
+          "end": 5.36
+        },
+        {
+          "word": "غَيْرُ",
+          "location": "95:6:8",
+          "start": 5.44,
+          "end": 5.84
+        },
+        {
+          "word": "مَمْنُونٖۖ",
+          "location": "95:6:9",
+          "start": 6.0,
+          "end": 7.12
+        }
+      ]
+    },
+    {
+      "segment": 8,
+      "time_from": 28.568,
+      "time_to": 31.608,
+      "ref_from": "95:7:1",
+      "ref_to": "95:7:4",
+      "matched_text": "فَمَا يُكَذِّبُكَ بَعْدُ بِالدِّينِۖ",
+      "confidence": 1.0,
+      "has_missing_words": false,
+      "has_repeated_words": false,
+      "special_type": null,
+      "error": null,
+      "words": [
+        {
+          "word": "فَمَا",
+          "location": "95:7:1",
+          "start": 0.0,
+          "end": 0.4
+        },
+        {
+          "word": "يُكَذِّبُكَ",
+          "location": "95:7:2",
+          "start": 0.4,
+          "end": 1.6
+        },
+        {
+          "word": "بَعْدُ",
+          "location": "95:7:3",
+          "start": 1.6,
+          "end": 1.92
+        },
+        {
+          "word": "بِالدِّينِۖ",
+          "location": "95:7:4",
+          "start": 2.08,
+          "end": 3.2
+        }
+      ]
+    },
+    {
+      "segment": 9,
+      "time_from": 32.599,
+      "time_to": 37.239,
+      "ref_from": "95:8:1",
+      "ref_to": "95:8:4",
+      "matched_text": "أَلَيْسَ اَ۬للَّهُ بِأَحْكَمِ اِ۬لْحَٰكِمِينَۖ",
+      "confidence": 0.917,
+      "has_missing_words": false,
+      "has_repeated_words": false,
+      "special_type": null,
+      "error": null,
+      "words": [
+        {
+          "word": "أَلَيْسَ",
+          "location": "95:8:1",
+          "start": 0.0,
+          "end": 0.88
+        },
+        {
+          "word": "اَ۬للَّهُ",
+          "location": "95:8:2",
+          "start": 0.88,
+          "end": 1.28
+        },
+        {
+          "word": "بِأَحْكَمِ",
+          "location": "95:8:3",
+          "start": 1.68,
+          "end": 2.8
+        },
+        {
+          "word": "اِ۬لْحَٰكِمِينَۖ",
+          "location": "95:8:4",
+          "start": 3.28,
+          "end": 4.8
+        }
+      ]
+    }
+  ]
+}

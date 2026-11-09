@@ -1,0 +1,288 @@
+{
+  "reciter": "ahmed_hussein_alalam",
+  "surah": 109,
+  "detected_surah": 109,
+  "surah_mismatch": false,
+  "surahs_present": [
+    109
+  ],
+  "alternate_source": false,
+  "chunk_window": 10.5,
+  "segments": [
+    {
+      "segment": 1,
+      "time_from": 0.0,
+      "time_to": 4.8,
+      "ref_from": "",
+      "ref_to": "",
+      "matched_text": "",
+      "confidence": 0.0,
+      "has_missing_words": false,
+      "has_repeated_words": false,
+      "special_type": null,
+      "error": "Low confidence (0%)",
+      "words": [],
+      "likely_opening": true
+    },
+    {
+      "segment": 2,
+      "time_from": 4.83,
+      "time_to": 7.63,
+      "ref_from": "109:1:1",
+      "ref_to": "109:1:3",
+      "matched_text": "قُلْ يَٰأَيُّهَا اَ۬لْكَٰفِرُونَ",
+      "confidence": 0.85,
+      "has_missing_words": false,
+      "has_repeated_words": false,
+      "special_type": null,
+      "error": null,
+      "words": [
+        {
+          "word": "قُلْ",
+          "location": "109:1:1",
+          "start": 0.0,
+          "end": 0.24
+        },
+        {
+          "word": "يَٰأَيُّهَا",
+          "location": "109:1:2",
+          "start": 0.4,
+          "end": 1.68
+        },
+        {
+          "word": "اَ۬لْكَٰفِرُونَ",
+          "location": "109:1:3",
+          "start": 1.68,
+          "end": 2.96
+        }
+      ]
+    },
+    {
+      "segment": 3,
+      "time_from": 8.859,
+      "time_to": 11.979,
+      "ref_from": "109:2:1",
+      "ref_to": "109:2:4",
+      "matched_text": "لَا أَعْبُدُ مَا تَعْبُدُونَ",
+      "confidence": 0.907,
+      "has_missing_words": false,
+      "has_repeated_words": false,
+      "special_type": null,
+      "error": null,
+      "words": [
+        {
+          "word": "لَا",
+          "location": "109:2:1",
+          "start": 0.0,
+          "end": 0.2398
+        },
+        {
+          "word": "أَعْبُدُ",
+          "location": "109:2:2",
+          "start": 0.2398,
+          "end": 1.1198
+        },
+        {
+          "word": "مَا",
+          "location": "109:2:3",
+          "start": 1.1198,
+          "end": 1.4398
+        },
+        {
+          "word": "تَعْبُدُونَ",
+          "location": "109:2:4",
+          "start": 1.4398,
+          "end": 2.7198
+        }
+      ]
+    },
+    {
+      "segment": 4,
+      "time_from": 12.379,
+      "time_to": 16.619,
+      "ref_from": "109:3:1",
+      "ref_to": "109:3:5",
+      "matched_text": "وَلَا أَنتُمْ عَٰبِدُونَ مَا أَعْبُدُۖ",
+      "confidence": 0.907,
+      "has_missing_words": false,
+      "has_repeated_words": false,
+      "special_type": null,
+      "error": null,
+      "words": [
+        {
+          "word": "وَلَا",
+          "location": "109:3:1",
+          "start": 0.0,
+          "end": 0.3998
+        },
+        {
+          "word": "أَنتُمْ",
+          "location": "109:3:2",
+          "start": 0.5598,
+          "end": 1.8398
+        },
+        {
+          "word": "عَٰبِدُونَ",
+          "location": "109:3:3",
+          "start": 1.8398,
+          "end": 2.9598
+        },
+        {
+          "word": "مَا",
+          "location": "109:3:4",
+          "start": 2.9598,
+          "end": 3.2798
+        },
+        {
+          "word": "أَعْبُدُۖ",
+          "location": "109:3:5",
+          "start": 3.2798,
+          "end": 4.3198
+        }
+      ]
+    },
+    {
+      "segment": 5,
+      "time_from": 17.478,
+      "time_to": 20.998,
+      "ref_from": "109:4:1",
+      "ref_to": "109:4:5",
+      "matched_text": "وَلَا أَنَا عَابِدٞ مَّا عَبَدتُّمْ",
+      "confidence": 1.0,
+      "has_missing_words": false,
+      "has_repeated_words": false,
+      "special_type": null,
+      "error": null,
+      "words": [
+        {
+          "word": "وَلَا",
+          "location": "109:4:1",
+          "start": 0.0,
+          "end": 0.24
+        },
+        {
+          "word": "أَنَا",
+          "location": "109:4:2",
+          "start": 0.32,
+          "end": 0.72
+        },
+        {
+          "word": "عَابِدٞ",
+          "location": "109:4:3",
+          "start": 0.8,
+          "end": 1.76
+        },
+        {
+          "word": "مَّا",
+          "location": "109:4:4",
+          "start": 2.0,
+          "end": 2.4
+        },
+        {
+          "word": "عَبَدتُّمْ",
+          "location": "109:4:5",
+          "start": 2.4,
+          "end": 3.68
+        }
+      ]
+    },
+    {
+      "segment": 6,
+      "time_from": 21.952,
+      "time_to": 26.432,
+      "ref_from": "109:5:1",
+      "ref_to": "109:5:5",
+      "matched_text": "وَلَا أَنتُمْ عَٰبِدُونَ مَا أَعْبُدُۖ",
+      "confidence": 0.951,
+      "has_missing_words": false,
+      "has_repeated_words": false,
+      "special_type": null,
+      "error": null,
+      "words": [
+        {
+          "word": "وَلَا",
+          "location": "109:5:1",
+          "start": 0.0,
+          "end": 0.2397
+        },
+        {
+          "word": "أَنتُمْ",
+          "location": "109:5:2",
+          "start": 0.3997,
+          "end": 1.6797
+        },
+        {
+          "word": "عَٰبِدُونَ",
+          "location": "109:5:3",
+          "start": 1.6797,
+          "end": 2.8797
+        },
+        {
+          "word": "مَا",
+          "location": "109:5:4",
+          "start": 2.8797,
+          "end": 3.1997
+        },
+        {
+          "word": "أَعْبُدُۖ",
+          "location": "109:5:5",
+          "start": 3.1997,
+          "end": 4.2397
+        }
+      ]
+    },
+    {
+      "segment": 7,
+      "time_from": 26.672,
+      "time_to": 29.712,
+      "ref_from": "109:6:1",
+      "ref_to": "109:6:4",
+      "matched_text": "لَكُمْ دِينُكُمْ وَلِيَ دِينِۖ",
+      "confidence": 0.951,
+      "has_missing_words": false,
+      "has_repeated_words": false,
+      "special_type": null,
+      "error": null,
+      "words": [
+        {
+          "word": "لَكُمْ",
+          "location": "109:6:1",
+          "start": 0.0,
+          "end": 0.3997
+        },
+        {
+          "word": "دِينُكُمْ",
+          "location": "109:6:2",
+          "start": 0.5597,
+          "end": 1.5997
+        },
+        {
+          "word": "وَلِيَ",
+          "location": "109:6:3",
+          "start": 1.5997,
+          "end": 2.3197
+        },
+        {
+          "word": "دِينِۖ",
+          "location": "109:6:4",
+          "start": 2.3197,
+          "end": 3.0397
+        }
+      ]
+    },
+    {
+      "segment": 8,
+      "time_from": 30.475,
+      "time_to": 30.555,
+      "ref_from": "",
+      "ref_to": "",
+      "matched_text": "",
+      "confidence": 0.0,
+      "has_missing_words": false,
+      "has_repeated_words": false,
+      "special_type": null,
+      "error": "Low confidence (0%)",
+      "words": []
+    }
+  ]
+}

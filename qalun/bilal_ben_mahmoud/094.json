@@ -1,0 +1,319 @@
+{
+  "reciter": "bilal_ben_mahmoud",
+  "surah": 94,
+  "detected_surah": 94,
+  "surah_mismatch": false,
+  "surahs_present": [
+    94
+  ],
+  "alternate_source": false,
+  "chunk_window": 10.5,
+  "segments": [
+    {
+      "segment": 1,
+      "time_from": 0.24,
+      "time_to": 3.28,
+      "ref_from": "",
+      "ref_to": "",
+      "matched_text": "بِسْمِ ٱللَّهِ ٱلرَّحْمَٰنِ ٱلرَّحِيم",
+      "confidence": 1.0,
+      "has_missing_words": false,
+      "has_repeated_words": false,
+      "special_type": "Basmala",
+      "error": null,
+      "words": [
+        {
+          "word": "بِسْمِ",
+          "location": "0:0:1",
+          "start": 0.0,
+          "end": 0.64
+        },
+        {
+          "word": "ٱللَّهِ",
+          "location": "0:0:2",
+          "start": 0.64,
+          "end": 0.88
+        },
+        {
+          "word": "ٱلرَّحْمَٰنِ",
+          "location": "0:0:3",
+          "start": 1.2,
+          "end": 2.4
+        },
+        {
+          "word": "ٱلرَّحِيم",
+          "location": "0:0:4",
+          "start": 2.56,
+          "end": 3.44
+        }
+      ]
+    },
+    {
+      "segment": 2,
+      "time_from": 4.259,
+      "time_to": 10.099,
+      "ref_from": "94:1:2",
+      "ref_to": "94:2:3",
+      "matched_text": "أَلَمْ نَشْرَحْ لَكَ صَدْرَكَ وَوَضَعْنَا عَنكَ وِزْرَكَ",
+      "confidence": 1.0,
+      "has_missing_words": true,
+      "has_repeated_words": false,
+      "special_type": null,
+      "error": null,
+      "words": [
+        {
+          "word": "أَلَمْ",
+          "location": "94:1:2",
+          "start": 0.0,
+          "end": 0.48
+        },
+        {
+          "word": "نَشْرَحْ",
+          "location": "94:1:3",
+          "start": 0.48,
+          "end": 1.52
+        },
+        {
+          "word": "لَكَ",
+          "location": "94:1:4",
+          "start": 1.52,
+          "end": 1.84
+        },
+        {
+          "word": "صَدْرَكَ",
+          "location": "94:1:5",
+          "start": 2.32,
+          "end": 3.12
+        },
+        {
+          "word": "وَوَضَعْنَا",
+          "location": "94:2:1",
+          "start": 3.12,
+          "end": 4.4
+        },
+        {
+          "word": "عَنكَ",
+          "location": "94:2:2",
+          "start": 4.4,
+          "end": 5.2
+        },
+        {
+          "word": "وِزْرَكَ",
+          "location": "94:2:3",
+          "start": 5.28,
+          "end": 6.0
+        }
+      ]
+    },
+    {
+      "segment": 3,
+      "time_from": 10.738,
+      "time_to": 13.418,
+      "ref_from": "94:3:1",
+      "ref_to": "94:3:3",
+      "matched_text": "اَ۬لذِے أَنقَضَ ظَهْرَكَ",
+      "confidence": 0.967,
+      "has_missing_words": false,
+      "has_repeated_words": false,
+      "special_type": null,
+      "error": null,
+      "words": [
+        {
+          "word": "اَ۬لذِے",
+          "location": "94:3:1",
+          "start": 0.0003,
+          "end": 0.3203
+        },
+        {
+          "word": "أَنقَضَ",
+          "location": "94:3:2",
+          "start": 0.4803,
+          "end": 1.6803
+        },
+        {
+          "word": "ظَهْرَكَ",
+          "location": "94:3:3",
+          "start": 1.9203,
+          "end": 2.6403
+        }
+      ]
+    },
+    {
+      "segment": 4,
+      "time_from": 13.458,
+      "time_to": 15.698,
+      "ref_from": "94:4:1",
+      "ref_to": "94:4:3",
+      "matched_text": "وَرَفَعْنَا لَكَ ذِكْرَكَۖ",
+      "confidence": 0.967,
+      "has_missing_words": false,
+      "has_repeated_words": false,
+      "special_type": null,
+      "error": null,
+      "words": [
+        {
+          "word": "وَرَفَعْنَا",
+          "location": "94:4:1",
+          "start": 0.0003,
+          "end": 1.1203
+        },
+        {
+          "word": "لَكَ",
+          "location": "94:4:2",
+          "start": 1.1203,
+          "end": 1.4403
+        },
+        {
+          "word": "ذِكْرَكَۖ",
+          "location": "94:4:3",
+          "start": 1.7603,
+          "end": 2.4003
+        }
+      ]
+    },
+    {
+      "segment": 5,
+      "time_from": 16.233,
+      "time_to": 19.033,
+      "ref_from": "94:5:1",
+      "ref_to": "94:5:4",
+      "matched_text": "فَإِنَّ مَعَ اَ۬لْعُسْرِ يُسْراً",
+      "confidence": 0.922,
+      "has_missing_words": false,
+      "has_repeated_words": false,
+      "special_type": null,
+      "error": null,
+      "words": [
+        {
+          "word": "فَإِنَّ",
+          "location": "94:5:1",
+          "start": 0.0,
+          "end": 0.2398
+        },
+        {
+          "word": "مَعَ",
+          "location": "94:5:2",
+          "start": 0.6398,
+          "end": 1.0398
+        },
+        {
+          "word": "اَ۬لْعُسْرِ",
+          "location": "94:5:3",
+          "start": 1.0398,
+          "end": 1.7598
+        },
+        {
+          "word": "يُسْراً",
+          "location": "94:5:4",
+          "start": 1.7598,
+          "end": 2.7198
+        }
+      ]
+    },
+    {
+      "segment": 6,
+      "time_from": 19.113,
+      "time_to": 21.993,
+      "ref_from": "94:6:1",
+      "ref_to": "94:6:4",
+      "matched_text": "إِنَّ مَعَ اَ۬لْعُسْرِ يُسْراٗۖ",
+      "confidence": 0.922,
+      "has_missing_words": false,
+      "has_repeated_words": false,
+      "special_type": null,
+      "error": null,
+      "words": [
+        {
+          "word": "إِنَّ",
+          "location": "94:6:1",
+          "start": 0.0,
+          "end": 0.3998
+        },
+        {
+          "word": "مَعَ",
+          "location": "94:6:2",
+          "start": 0.6398,
+          "end": 1.0398
+        },
+        {
+          "word": "اَ۬لْعُسْرِ",
+          "location": "94:6:3",
+          "start": 1.0398,
+          "end": 1.7598
+        },
+        {
+          "word": "يُسْراٗۖ",
+          "location": "94:6:4",
+          "start": 1.7598,
+          "end": 2.7998
+        }
+      ]
+    },
+    {
+      "segment": 7,
+      "time_from": 22.073,
+      "time_to": 24.633,
+      "ref_from": "94:7:1",
+      "ref_to": "94:7:3",
+      "matched_text": "فَإِذَا فَرَغْتَ فَانصَبْ",
+      "confidence": 0.922,
+      "has_missing_words": false,
+      "has_repeated_words": false,
+      "special_type": null,
+      "error": null,
+      "words": [
+        {
+          "word": "فَإِذَا",
+          "location": "94:7:1",
+          "start": 0.0,
+          "end": 0.3998
+        },
+        {
+          "word": "فَرَغْتَ",
+          "location": "94:7:2",
+          "start": 0.6398,
+          "end": 1.5998
+        },
+        {
+          "word": "فَانصَبْ",
+          "location": "94:7:3",
+          "start": 1.5998,
+          "end": 2.7198
+        }
+      ]
+    },
+    {
+      "segment": 8,
+      "time_from": 25.278,
+      "time_to": 28.478,
+      "ref_from": "94:8:1",
+      "ref_to": "94:8:3",
+      "matched_text": "وَإِلَىٰ رَبِّكَ فَارْغَبۖ",
+      "confidence": 0.882,
+      "has_missing_words": false,
+      "has_repeated_words": false,
+      "special_type": null,
+      "error": null,
+      "words": [
+        {
+          "word": "وَإِلَىٰ",
+          "location": "94:8:1",
+          "start": 0.0,
+          "end": 0.64
+        },
+        {
+          "word": "رَبِّكَ",
+          "location": "94:8:2",
+          "start": 0.88,
+          "end": 2.08
+        },
+        {
+          "word": "فَارْغَبۖ",
+          "location": "94:8:3",
+          "start": 2.16,
+          "end": 3.36
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,100 @@
+{
+  "reciter": "ibrahim_kishidan",
+  "surah": 108,
+  "detected_surah": 108,
+  "surah_mismatch": false,
+  "surahs_present": [
+    108
+  ],
+  "alternate_source": false,
+  "chunk_window": 10.5,
+  "segments": [
+    {
+      "segment": 1,
+      "time_from": 0.88,
+      "time_to": 7.52,
+      "ref_from": "",
+      "ref_to": "",
+      "matched_text": "",
+      "confidence": 0.0,
+      "has_missing_words": false,
+      "has_repeated_words": false,
+      "special_type": null,
+      "error": "Low confidence (0%)",
+      "words": [],
+      "likely_opening": true
+    },
+    {
+      "segment": 2,
+      "time_from": 8.61,
+      "time_to": 11.41,
+      "ref_from": "108:2:1",
+      "ref_to": "108:2:3",
+      "matched_text": "فَصَلِّ لِرَبِّكَ وَانْحَرْۖ",
+      "confidence": 1.0,
+      "has_missing_words": false,
+      "has_repeated_words": false,
+      "special_type": null,
+      "error": null,
+      "words": [
+        {
+          "word": "فَصَلِّ",
+          "location": "108:2:1",
+          "start": 0.0,
+          "end": 0.48
+        },
+        {
+          "word": "لِرَبِّكَ",
+          "location": "108:2:2",
+          "start": 0.64,
+          "end": 1.76
+        },
+        {
+          "word": "وَانْحَرْۖ",
+          "location": "108:2:3",
+          "start": 1.76,
+          "end": 2.56
+        }
+      ]
+    },
+    {
+      "segment": 3,
+      "time_from": 11.65,
+      "time_to": 15.81,
+      "ref_from": "108:3:1",
+      "ref_to": "108:3:4",
+      "matched_text": "إِنَّ شَانِئَكَ هُوَ اَ۬لْأَبْتَرُۖ",
+      "confidence": 1.0,
+      "has_missing_words": false,
+      "has_repeated_words": false,
+      "special_type": null,
+      "error": null,
+      "words": [
+        {
+          "word": "إِنَّ",
+          "location": "108:3:1",
+          "start": 0.0,
+          "end": 0.4
+        },
+        {
+          "word": "شَانِئَكَ",
+          "location": "108:3:2",
+          "start": 1.36,
+          "end": 2.56
+        },
+        {
+          "word": "هُوَ",
+          "location": "108:3:3",
+          "start": 2.56,
+          "end": 2.88
+        },
+        {
+          "word": "اَ۬لْأَبْتَرُۖ",
+          "location": "108:3:4",
+          "start": 3.12,
+          "end": 4.16
+        }
+      ]
+    }
+  ]
+}

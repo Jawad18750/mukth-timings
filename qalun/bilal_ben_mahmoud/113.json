@@ -1,0 +1,265 @@
+{
+  "reciter": "bilal_ben_mahmoud",
+  "surah": 113,
+  "detected_surah": 113,
+  "surah_mismatch": false,
+  "surahs_present": [
+    113
+  ],
+  "alternate_source": false,
+  "chunk_window": 10.5,
+  "segments": [
+    {
+      "segment": 1,
+      "time_from": 0.4,
+      "time_to": 3.6,
+      "ref_from": "",
+      "ref_to": "",
+      "matched_text": "بِسْمِ ٱللَّهِ ٱلرَّحْمَٰنِ ٱلرَّحِيم",
+      "confidence": 1.0,
+      "has_missing_words": false,
+      "has_repeated_words": false,
+      "special_type": "Basmala",
+      "error": null,
+      "words": [
+        {
+          "word": "بِسْمِ",
+          "location": "0:0:1",
+          "start": 0.0,
+          "end": 0.64
+        },
+        {
+          "word": "ٱللَّهِ",
+          "location": "0:0:2",
+          "start": 0.64,
+          "end": 0.88
+        },
+        {
+          "word": "ٱلرَّحْمَٰنِ",
+          "location": "0:0:3",
+          "start": 1.36,
+          "end": 2.48
+        },
+        {
+          "word": "ٱلرَّحِيم",
+          "location": "0:0:4",
+          "start": 2.72,
+          "end": 3.6
+        }
+      ]
+    },
+    {
+      "segment": 2,
+      "time_from": 4.73,
+      "time_to": 8.45,
+      "ref_from": "113:1:1",
+      "ref_to": "113:1:4",
+      "matched_text": "قُلْ أَعُوذُ بِرَبِّ اِ۬لْفَلَقِ",
+      "confidence": 1.0,
+      "has_missing_words": false,
+      "has_repeated_words": false,
+      "special_type": null,
+      "error": null,
+      "words": [
+        {
+          "word": "قُلْ",
+          "location": "113:1:1",
+          "start": 0.0,
+          "end": 0.24
+        },
+        {
+          "word": "أَعُوذُ",
+          "location": "113:1:2",
+          "start": 0.32,
+          "end": 1.36
+        },
+        {
+          "word": "بِرَبِّ",
+          "location": "113:1:3",
+          "start": 1.36,
+          "end": 2.24
+        },
+        {
+          "word": "اِ۬لْفَلَقِ",
+          "location": "113:1:4",
+          "start": 2.56,
+          "end": 3.52
+        }
+      ]
+    },
+    {
+      "segment": 3,
+      "time_from": 8.65,
+      "time_to": 11.13,
+      "ref_from": "113:2:1",
+      "ref_to": "113:2:4",
+      "matched_text": "مِن شَرِّ مَا خَلَقَ",
+      "confidence": 1.0,
+      "has_missing_words": false,
+      "has_repeated_words": false,
+      "special_type": null,
+      "error": null,
+      "words": [
+        {
+          "word": "مِن",
+          "location": "113:2:1",
+          "start": 0.0,
+          "end": 0.4
+        },
+        {
+          "word": "شَرِّ",
+          "location": "113:2:2",
+          "start": 0.88,
+          "end": 1.28
+        },
+        {
+          "word": "مَا",
+          "location": "113:2:3",
+          "start": 1.68,
+          "end": 2.08
+        },
+        {
+          "word": "خَلَقَ",
+          "location": "113:2:4",
+          "start": 2.24,
+          "end": 2.64
+        }
+      ]
+    },
+    {
+      "segment": 4,
+      "time_from": 12.553,
+      "time_to": 16.873,
+      "ref_from": "113:3:1",
+      "ref_to": "113:3:5",
+      "matched_text": "وَمِن شَرِّ غَاسِقٍ إِذَا وَقَبَ",
+      "confidence": 1.0,
+      "has_missing_words": false,
+      "has_repeated_words": false,
+      "special_type": null,
+      "error": null,
+      "words": [
+        {
+          "word": "وَمِن",
+          "location": "113:3:1",
+          "start": 0.0,
+          "end": 0.24
+        },
+        {
+          "word": "شَرِّ",
+          "location": "113:3:2",
+          "start": 0.8,
+          "end": 1.2
+        },
+        {
+          "word": "غَاسِقٍ",
+          "location": "113:3:3",
+          "start": 1.6,
+          "end": 2.72
+        },
+        {
+          "word": "إِذَا",
+          "location": "113:3:4",
+          "start": 2.88,
+          "end": 3.28
+        },
+        {
+          "word": "وَقَبَ",
+          "location": "113:3:5",
+          "start": 3.84,
+          "end": 4.48
+        }
+      ]
+    },
+    {
+      "segment": 5,
+      "time_from": 17.718,
+      "time_to": 23.718,
+      "ref_from": "113:4:1",
+      "ref_to": "113:4:5",
+      "matched_text": "وَمِن شَرِّ اِ۬لنَّفَّٰثَٰتِ فِے اِ۬لْعُقَدِ",
+      "confidence": 0.88,
+      "has_missing_words": false,
+      "has_repeated_words": false,
+      "special_type": null,
+      "error": null,
+      "words": [
+        {
+          "word": "وَمِن",
+          "location": "113:4:1",
+          "start": 0.0,
+          "end": 0.24
+        },
+        {
+          "word": "شَرِّ",
+          "location": "113:4:2",
+          "start": 1.12,
+          "end": 1.52
+        },
+        {
+          "word": "اِ۬لنَّفَّٰثَٰتِ",
+          "location": "113:4:3",
+          "start": 2.4,
+          "end": 4.48
+        },
+        {
+          "word": "فِے",
+          "location": "113:4:4",
+          "start": 4.48,
+          "end": 4.88
+        },
+        {
+          "word": "اِ۬لْعُقَدِ",
+          "location": "113:4:5",
+          "start": 4.96,
+          "end": 5.68
+        }
+      ]
+    },
+    {
+      "segment": 6,
+      "time_from": 24.523,
+      "time_to": 30.363,
+      "ref_from": "113:5:1",
+      "ref_to": "113:5:5",
+      "matched_text": "وَمِن شَرِّ حَاسِدٍ إِذَا حَسَدَۖ",
+      "confidence": 1.0,
+      "has_missing_words": false,
+      "has_repeated_words": false,
+      "special_type": null,
+      "error": null,
+      "words": [
+        {
+          "word": "وَمِن",
+          "location": "113:5:1",
+          "start": 0.0,
+          "end": 0.24
+        },
+        {
+          "word": "شَرِّ",
+          "location": "113:5:2",
+          "start": 1.36,
+          "end": 1.76
+        },
+        {
+          "word": "حَاسِدٍ",
+          "location": "113:5:3",
+          "start": 2.24,
+          "end": 3.6
+        },
+        {
+          "word": "إِذَا",
+          "location": "113:5:4",
+          "start": 4.0,
+          "end": 4.4
+        },
+        {
+          "word": "حَسَدَۖ",
+          "location": "113:5:5",
+          "start": 4.88,
+          "end": 6.0
+        }
+      ]
+    }
+  ]
+}

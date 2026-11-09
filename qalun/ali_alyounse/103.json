@@ -1,0 +1,172 @@
+{
+  "reciter": "ali_alyounse",
+  "surah": 103,
+  "detected_surah": 103,
+  "surah_mismatch": false,
+  "surahs_present": [
+    103
+  ],
+  "alternate_source": false,
+  "chunk_window": 10.5,
+  "segments": [
+    {
+      "segment": 1,
+      "time_from": 0.72,
+      "time_to": 5.36,
+      "ref_from": "",
+      "ref_to": "",
+      "matched_text": "",
+      "confidence": 0.0,
+      "has_missing_words": false,
+      "has_repeated_words": false,
+      "special_type": null,
+      "error": "Low confidence (0%)",
+      "words": [],
+      "likely_opening": true
+    },
+    {
+      "segment": 2,
+      "time_from": 5.62,
+      "time_to": 11.46,
+      "ref_from": "103:1:1",
+      "ref_to": "103:2:4",
+      "matched_text": "وَالْعَصْرِ إِنَّ اَ۬لْإِنسَٰنَ لَفِے خُسْرٍ",
+      "confidence": 0.911,
+      "has_missing_words": false,
+      "has_repeated_words": false,
+      "special_type": null,
+      "error": null,
+      "words": [
+        {
+          "word": "وَالْعَصْرِ",
+          "location": "103:1:1",
+          "start": 0.0,
+          "end": 0.8
+        },
+        {
+          "word": "إِنَّ",
+          "location": "103:2:1",
+          "start": 0.88,
+          "end": 1.28
+        },
+        {
+          "word": "اَ۬لْإِنسَٰنَ",
+          "location": "103:2:2",
+          "start": 2.56,
+          "end": 4.48
+        },
+        {
+          "word": "لَفِے",
+          "location": "103:2:3",
+          "start": 4.64,
+          "end": 5.04
+        },
+        {
+          "word": "خُسْرٍ",
+          "location": "103:2:4",
+          "start": 5.04,
+          "end": 5.68
+        }
+      ]
+    },
+    {
+      "segment": 3,
+      "time_from": 11.62,
+      "time_to": 15.3,
+      "ref_from": "103:3:1",
+      "ref_to": "103:3:5",
+      "matched_text": "إِلَّا اَ۬لذِينَ ءَامَنُواْ وَعَمِلُواْ اُ۬لصَّٰلِحَٰتِ",
+      "confidence": 0.911,
+      "has_missing_words": false,
+      "has_repeated_words": false,
+      "special_type": null,
+      "error": null,
+      "words": [
+        {
+          "word": "إِلَّا",
+          "location": "103:3:1",
+          "start": 0.0,
+          "end": 0.4
+        },
+        {
+          "word": "اَ۬لذِينَ",
+          "location": "103:3:2",
+          "start": 0.64,
+          "end": 1.04
+        },
+        {
+          "word": "ءَامَنُواْ",
+          "location": "103:3:3",
+          "start": 1.52,
+          "end": 2.56
+        },
+        {
+          "word": "وَعَمِلُواْ",
+          "location": "103:3:4",
+          "start": 2.72,
+          "end": 3.36
+        },
+        {
+          "word": "اُ۬لصَّٰلِحَٰتِ",
+          "location": "103:3:5",
+          "start": 3.36,
+          "end": 3.84
+        }
+      ]
+    },
+    {
+      "segment": 4,
+      "time_from": 16.769,
+      "time_to": 18.689,
+      "ref_from": "103:3:6",
+      "ref_to": "103:3:7",
+      "matched_text": "وَتَوَاصَوْاْ بِالْحَقِّ",
+      "confidence": 0.8,
+      "has_missing_words": false,
+      "has_repeated_words": false,
+      "special_type": null,
+      "error": null,
+      "words": [
+        {
+          "word": "وَتَوَاصَوْاْ",
+          "location": "103:3:6",
+          "start": 0.0,
+          "end": 1.1998
+        },
+        {
+          "word": "بِالْحَقِّ",
+          "location": "103:3:7",
+          "start": 1.1998,
+          "end": 1.8398
+        }
+      ]
+    },
+    {
+      "segment": 5,
+      "time_from": 19.528,
+      "time_to": 21.448,
+      "ref_from": "103:3:8",
+      "ref_to": "103:3:9",
+      "matched_text": "وَتَوَاصَوْاْ بِالصَّبْرِۖ",
+      "confidence": 1.0,
+      "has_missing_words": false,
+      "has_repeated_words": false,
+      "special_type": null,
+      "error": null,
+      "words": [
+        {
+          "word": "وَتَوَاصَوْاْ",
+          "location": "103:3:8",
+          "start": 0.0,
+          "end": 1.04
+        },
+        {
+          "word": "بِالصَّبْرِۖ",
+          "location": "103:3:9",
+          "start": 1.04,
+          "end": 1.92
+        }
+      ]
+    }
+  ]
+}

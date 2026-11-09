@@ -1,0 +1,202 @@
+{
+  "reciter": "ahmed_saleh_rajab",
+  "surah": 112,
+  "detected_surah": 112,
+  "surah_mismatch": false,
+  "surahs_present": [
+    112
+  ],
+  "alternate_source": false,
+  "chunk_window": 10.5,
+  "segments": [
+    {
+      "segment": 1,
+      "time_from": 0.24,
+      "time_to": 2.8,
+      "ref_from": "",
+      "ref_to": "",
+      "matched_text": "بِسْمِ ٱللَّهِ ٱلرَّحْمَٰنِ ٱلرَّحِيم",
+      "confidence": 0.767,
+      "has_missing_words": false,
+      "has_repeated_words": false,
+      "special_type": "Basmala",
+      "error": null,
+      "words": [
+        {
+          "word": "بِسْمِ",
+          "location": "0:0:1",
+          "start": 0.0,
+          "end": 0.64
+        },
+        {
+          "word": "ٱللَّهِ",
+          "location": "0:0:2",
+          "start": 0.64,
+          "end": 0.88
+        },
+        {
+          "word": "ٱلرَّحْمَٰنِ",
+          "location": "0:0:3",
+          "start": 0.96,
+          "end": 2.08
+        },
+        {
+          "word": "ٱلرَّحِيم",
+          "location": "0:0:4",
+          "start": 2.08,
+          "end": 3.92
+        }
+      ]
+    },
+    {
+      "segment": 2,
+      "time_from": 4.31,
+      "time_to": 6.79,
+      "ref_from": "112:1:1",
+      "ref_to": "112:1:4",
+      "matched_text": "قُلْ هُوَ اَ۬للَّهُ أَحَدٌۖ",
+      "confidence": 1.0,
+      "has_missing_words": false,
+      "has_repeated_words": false,
+      "special_type": null,
+      "error": null,
+      "words": [
+        {
+          "word": "قُلْ",
+          "location": "112:1:1",
+          "start": 0.0,
+          "end": 0.24
+        },
+        {
+          "word": "هُوَ",
+          "location": "112:1:2",
+          "start": 0.48,
+          "end": 0.88
+        },
+        {
+          "word": "اَ۬للَّهُ",
+          "location": "112:1:3",
+          "start": 1.04,
+          "end": 1.44
+        },
+        {
+          "word": "أَحَدٌۖ",
+          "location": "112:1:4",
+          "start": 1.84,
+          "end": 2.24
+        }
+      ]
+    },
+    {
+      "segment": 3,
+      "time_from": 7.806,
+      "time_to": 9.486,
+      "ref_from": "112:2:1",
+      "ref_to": "112:2:2",
+      "matched_text": "اِ۬للَّهُ اُ۬لصَّمَدُۖ",
+      "confidence": 0.979,
+      "has_missing_words": false,
+      "has_repeated_words": false,
+      "special_type": null,
+      "error": null,
+      "words": [
+        {
+          "word": "اِ۬للَّهُ",
+          "location": "112:2:1",
+          "start": 0.0,
+          "end": 0.2398
+        },
+        {
+          "word": "اُ۬لصَّمَدُۖ",
+          "location": "112:2:2",
+          "start": 0.5598,
+          "end": 1.5198
+        }
+      ]
+    },
+    {
+      "segment": 4,
+      "time_from": 9.646,
+      "time_to": 12.566,
+      "ref_from": "112:3:1",
+      "ref_to": "112:3:4",
+      "matched_text": "لَمْ يَلِدْ وَلَمْ يُولَدْۖ",
+      "confidence": 0.979,
+      "has_missing_words": false,
+      "has_repeated_words": false,
+      "special_type": null,
+      "error": null,
+      "words": [
+        {
+          "word": "لَمْ",
+          "location": "112:3:1",
+          "start": 0.0,
+          "end": 0.3998
+        },
+        {
+          "word": "يَلِدْ",
+          "location": "112:3:2",
+          "start": 0.5597,
+          "end": 1.1197
+        },
+        {
+          "word": "وَلَمْ",
+          "location": "112:3:3",
+          "start": 1.1197,
+          "end": 1.4397
+        },
+        {
+          "word": "يُولَدْۖ",
+          "location": "112:3:4",
+          "start": 1.6797,
+          "end": 2.7197
+        }
+      ]
+    },
+    {
+      "segment": 5,
+      "time_from": 12.766,
+      "time_to": 16.366,
+      "ref_from": "112:4:1",
+      "ref_to": "112:4:5",
+      "matched_text": "وَلَمْ يَكُن لَّهُۥ كُفُؤاً أَحَدُۢۖ",
+      "confidence": 0.979,
+      "has_missing_words": false,
+      "has_repeated_words": false,
+      "special_type": null,
+      "error": null,
+      "words": [
+        {
+          "word": "وَلَمْ",
+          "location": "112:4:1",
+          "start": 0.0,
+          "end": 0.3998
+        },
+        {
+          "word": "يَكُن",
+          "location": "112:4:2",
+          "start": 0.5598,
+          "end": 1.3598
+        },
+        {
+          "word": "لَّهُۥ",
+          "location": "112:4:3",
+          "start": 1.3598,
+          "end": 1.5998
+        },
+        {
+          "word": "كُفُؤاً",
+          "location": "112:4:4",
+          "start": 1.7598,
+          "end": 2.7998
+        },
+        {
+          "word": "أَحَدُۢۖ",
+          "location": "112:4:5",
+          "start": 2.7998,
+          "end": 3.1198
+        }
+      ]
+    }
+  ]
+}

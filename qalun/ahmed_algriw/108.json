@@ -1,0 +1,132 @@
+{
+  "reciter": "ahmed_algriw",
+  "surah": 108,
+  "detected_surah": 108,
+  "surah_mismatch": false,
+  "surahs_present": [
+    108
+  ],
+  "alternate_source": false,
+  "segments": [
+    {
+      "segment": 1,
+      "time_from": 0.08,
+      "time_to": 7.52,
+      "ref_from": "",
+      "ref_to": "",
+      "matched_text": "",
+      "confidence": 0.0,
+      "has_missing_words": false,
+      "has_repeated_words": false,
+      "special_type": null,
+      "error": "Low confidence (0%)",
+      "words": [],
+      "likely_opening": true
+    },
+    {
+      "segment": 2,
+      "time_from": 8.843,
+      "time_to": 13.163,
+      "ref_from": "108:1:1",
+      "ref_to": "108:1:3",
+      "matched_text": "إِنَّا أَعْطَيْنَٰكَ اَ۬لْكَوْثَرَ",
+      "confidence": 0.947,
+      "has_missing_words": false,
+      "has_repeated_words": false,
+      "special_type": null,
+      "error": null,
+      "words": [
+        {
+          "word": "إِنَّا",
+          "location": "108:1:1",
+          "start": 0.0,
+          "end": 1.52
+        },
+        {
+          "word": "أَعْطَيْنَٰكَ",
+          "location": "108:1:2",
+          "start": 1.68,
+          "end": 3.44
+        },
+        {
+          "word": "اَ۬لْكَوْثَرَ",
+          "location": "108:1:3",
+          "start": 3.52,
+          "end": 4.48
+        }
+      ]
+    },
+    {
+      "segment": 3,
+      "time_from": 15.727,
+      "time_to": 18.767,
+      "ref_from": "108:2:1",
+      "ref_to": "108:2:3",
+      "matched_text": "فَصَلِّ لِرَبِّكَ وَانْحَرْۖ",
+      "confidence": 0.938,
+      "has_missing_words": false,
+      "has_repeated_words": false,
+      "special_type": null,
+      "error": null,
+      "words": [
+        {
+          "word": "فَصَلِّ",
+          "location": "108:2:1",
+          "start": 0.0,
+          "end": 0.56
+        },
+        {
+          "word": "لِرَبِّكَ",
+          "location": "108:2:2",
+          "start": 0.8,
+          "end": 2.08
+        },
+        {
+          "word": "وَانْحَرْۖ",
+          "location": "108:2:3",
+          "start": 2.08,
+          "end": 2.96
+        }
+      ]
+    },
+    {
+      "segment": 4,
+      "time_from": 21.142,
+      "time_to": 25.622,
+      "ref_from": "108:3:1",
+      "ref_to": "108:3:4",
+      "matched_text": "إِنَّ شَانِئَكَ هُوَ اَ۬لْأَبْتَرُۖ",
+      "confidence": 1.0,
+      "has_missing_words": false,
+      "has_repeated_words": false,
+      "special_type": null,
+      "error": null,
+      "words": [
+        {
+          "word": "إِنَّ",
+          "location": "108:3:1",
+          "start": 0.0,
+          "end": 0.24
+        },
+        {
+          "word": "شَانِئَكَ",
+          "location": "108:3:2",
+          "start": 1.28,
+          "end": 2.64
+        },
+        {
+          "word": "هُوَ",
+          "location": "108:3:3",
+          "start": 2.64,
+          "end": 2.96
+        },
+        {
+          "word": "اَ۬لْأَبْتَرُۖ",
+          "location": "108:3:4",
+          "start": 3.28,
+          "end": 4.4
+        }
+      ]
+    }
+  ]
+}

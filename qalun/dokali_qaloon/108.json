@@ -1,0 +1,104 @@
+{
+  "reciter": "dokali_qaloon",
+  "reciter_name": "الدوكالي محمد العالم",
+  "surah": 108,
+  "source": "https://cdn.mp3quran.net/audio/dokali-alim/r1/108.mp3",
+  "detected_surah": 108,
+  "surah_mismatch": false,
+  "surahs_present": [
+    108
+  ],
+  "chunk_window": 10.5,
+  "segments": [
+    {
+      "segment": 1,
+      "time_from": 4.94,
+      "time_to": 10.38,
+      "ref_from": "108:1:1",
+      "ref_to": "108:2:3",
+      "matched_text": "إِنَّا أَعْطَيْنَٰكَ اَ۬لْكَوْثَرَ فَصَلِّ لِرَبِّكَ وَانْحَرْۖ",
+      "confidence": 0.971,
+      "has_missing_words": false,
+      "has_repeated_words": false,
+      "special_type": null,
+      "error": null,
+      "words": [
+        {
+          "word": "إِنَّا",
+          "location": "108:1:1",
+          "start": 0.0,
+          "end": 1.12
+        },
+        {
+          "word": "أَعْطَيْنَٰكَ",
+          "location": "108:1:2",
+          "start": 1.12,
+          "end": 2.4
+        },
+        {
+          "word": "اَ۬لْكَوْثَرَ",
+          "location": "108:1:3",
+          "start": 2.4,
+          "end": 3.2
+        },
+        {
+          "word": "فَصَلِّ",
+          "location": "108:2:1",
+          "start": 3.2,
+          "end": 3.76
+        },
+        {
+          "word": "لِرَبِّكَ",
+          "location": "108:2:2",
+          "start": 3.84,
+          "end": 4.72
+        },
+        {
+          "word": "وَانْحَرْۖ",
+          "location": "108:2:3",
+          "start": 4.72,
+          "end": 5.44
+        }
+      ]
+    },
+    {
+      "segment": 2,
+      "time_from": 11.787,
+      "time_to": 16.667,
+      "ref_from": "108:3:1",
+      "ref_to": "108:3:4",
+      "matched_text": "إِنَّ شَانِئَكَ هُوَ اَ۬لْأَبْتَرُۖ",
+      "confidence": 1.0,
+      "has_missing_words": false,
+      "has_repeated_words": false,
+      "special_type": null,
+      "error": null,
+      "words": [
+        {
+          "word": "إِنَّ",
+          "location": "108:3:1",
+          "start": 0.0,
+          "end": 0.24
+        },
+        {
+          "word": "شَانِئَكَ",
+          "location": "108:3:2",
+          "start": 1.12,
+          "end": 2.16
+        },
+        {
+          "word": "هُوَ",
+          "location": "108:3:3",
+          "start": 2.16,
+          "end": 2.48
+        },
+        {
+          "word": "اَ۬لْأَبْتَرُۖ",
+          "location": "108:3:4",
+          "start": 2.48,
+          "end": 3.52
+        }
+      ]
+    }
+  ]
+}

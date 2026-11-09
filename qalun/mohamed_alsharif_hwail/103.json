@@ -1,0 +1,196 @@
+{
+  "reciter": "mohamed_alsharif_hwail",
+  "surah": 103,
+  "detected_surah": 103,
+  "surah_mismatch": false,
+  "surahs_present": [
+    103
+  ],
+  "alternate_source": false,
+  "chunk_window": 10.5,
+  "segments": [
+    {
+      "segment": 1,
+      "time_from": 0.48,
+      "time_to": 3.36,
+      "ref_from": "",
+      "ref_to": "",
+      "matched_text": "بِسْمِ ٱللَّهِ ٱلرَّحْمَٰنِ ٱلرَّحِيم",
+      "confidence": 1.0,
+      "has_missing_words": false,
+      "has_repeated_words": false,
+      "special_type": "Basmala",
+      "error": null,
+      "words": [
+        {
+          "word": "بِسْمِ",
+          "location": "0:0:1",
+          "start": 0.0,
+          "end": 0.64
+        },
+        {
+          "word": "ٱللَّهِ",
+          "location": "0:0:2",
+          "start": 0.64,
+          "end": 0.96
+        },
+        {
+          "word": "ٱلرَّحْمَٰنِ",
+          "location": "0:0:3",
+          "start": 1.04,
+          "end": 2.16
+        },
+        {
+          "word": "ٱلرَّحِيم",
+          "location": "0:0:4",
+          "start": 2.16,
+          "end": 3.04
+        }
+      ]
+    },
+    {
+      "segment": 2,
+      "time_from": 4.24,
+      "time_to": 8.52,
+      "ref_from": "103:1:1",
+      "ref_to": "103:2:4",
+      "matched_text": "وَالْعَصْرِ إِنَّ اَ۬لْإِنسَٰنَ لَفِے خُسْرٍ",
+      "confidence": 0.893,
+      "has_missing_words": false,
+      "has_repeated_words": false,
+      "special_type": null,
+      "error": null,
+      "words": [
+        {
+          "word": "وَالْعَصْرِ",
+          "location": "103:1:1",
+          "start": 0.0,
+          "end": 0.8
+        },
+        {
+          "word": "إِنَّ",
+          "location": "103:2:1",
+          "start": 0.8,
+          "end": 1.2
+        },
+        {
+          "word": "اَ۬لْإِنسَٰنَ",
+          "location": "103:2:2",
+          "start": 1.68,
+          "end": 3.04
+        },
+        {
+          "word": "لَفِے",
+          "location": "103:2:3",
+          "start": 3.12,
+          "end": 3.52
+        },
+        {
+          "word": "خُسْرٍ",
+          "location": "103:2:4",
+          "start": 3.52,
+          "end": 4.16
+        }
+      ]
+    },
+    {
+      "segment": 3,
+      "time_from": 8.64,
+      "time_to": 12.16,
+      "ref_from": "103:3:1",
+      "ref_to": "103:3:5",
+      "matched_text": "إِلَّا اَ۬لذِينَ ءَامَنُواْ وَعَمِلُواْ اُ۬لصَّٰلِحَٰتِ",
+      "confidence": 0.893,
+      "has_missing_words": false,
+      "has_repeated_words": false,
+      "special_type": null,
+      "error": null,
+      "words": [
+        {
+          "word": "إِلَّا",
+          "location": "103:3:1",
+          "start": 0.0,
+          "end": 0.4
+        },
+        {
+          "word": "اَ۬لذِينَ",
+          "location": "103:3:2",
+          "start": 0.64,
+          "end": 1.04
+        },
+        {
+          "word": "ءَامَنُواْ",
+          "location": "103:3:3",
+          "start": 1.36,
+          "end": 2.48
+        },
+        {
+          "word": "وَعَمِلُواْ",
+          "location": "103:3:4",
+          "start": 2.48,
+          "end": 3.12
+        },
+        {
+          "word": "اُ۬لصَّٰلِحَٰتِ",
+          "location": "103:3:5",
+          "start": 3.12,
+          "end": 3.6
+        }
+      ]
+    },
+    {
+      "segment": 4,
+      "time_from": 12.841,
+      "time_to": 15.241,
+      "ref_from": "103:3:5",
+      "ref_to": "103:3:7",
+      "matched_text": "وَتَوَاصَوْاْ بِالْحَقِّ",
+      "confidence": 0.857,
+      "has_missing_words": false,
+      "has_repeated_words": false,
+      "special_type": null,
+      "error": null,
+      "words": [
+        {
+          "word": "وَتَوَاصَوْاْ",
+          "location": "103:3:6",
+          "start": 0.64,
+          "end": 1.68
+        },
+        {
+          "word": "بِالْحَقِّ",
+          "location": "103:3:7",
+          "start": 1.68,
+          "end": 2.32
+        }
+      ]
+    },
+    {
+      "segment": 5,
+      "time_from": 15.988,
+      "time_to": 17.988,
+      "ref_from": "103:3:8",
+      "ref_to": "103:3:9",
+      "matched_text": "وَتَوَاصَوْاْ بِالصَّبْرِۖ",
+      "confidence": 1.0,
+      "has_missing_words": false,
+      "has_repeated_words": false,
+      "special_type": null,
+      "error": null,
+      "words": [
+        {
+          "word": "وَتَوَاصَوْاْ",
+          "location": "103:3:8",
+          "start": 0.0,
+          "end": 1.04
+        },
+        {
+          "word": "بِالصَّبْرِۖ",
+          "location": "103:3:9",
+          "start": 1.04,
+          "end": 2.0
+        }
+      ]
+    }
+  ]
+}

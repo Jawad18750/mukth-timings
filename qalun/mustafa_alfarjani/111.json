@@ -1,0 +1,196 @@
+{
+  "reciter": "mustafa_alfarjani",
+  "surah": 111,
+  "detected_surah": 111,
+  "surah_mismatch": false,
+  "surahs_present": [
+    111
+  ],
+  "alternate_source": false,
+  "chunk_window": 10.5,
+  "segments": [
+    {
+      "segment": 1,
+      "time_from": 0.0,
+      "time_to": 6.4,
+      "ref_from": "",
+      "ref_to": "",
+      "matched_text": "",
+      "confidence": 0.0,
+      "has_missing_words": false,
+      "has_repeated_words": false,
+      "special_type": null,
+      "error": "Low confidence (0%)",
+      "words": [],
+      "likely_opening": true
+    },
+    {
+      "segment": 2,
+      "time_from": 7.41,
+      "time_to": 11.25,
+      "ref_from": "111:2:1",
+      "ref_to": "111:2:6",
+      "matched_text": "مَا أَغْنَىٰ عَنْهُ مَالُهُۥ وَمَا كَسَبَۖ",
+      "confidence": 1.0,
+      "has_missing_words": false,
+      "has_repeated_words": false,
+      "special_type": null,
+      "error": null,
+      "words": [
+        {
+          "word": "مَا",
+          "location": "111:2:1",
+          "start": 0.0,
+          "end": 0.24
+        },
+        {
+          "word": "أَغْنَىٰ",
+          "location": "111:2:2",
+          "start": 0.24,
+          "end": 1.12
+        },
+        {
+          "word": "عَنْهُ",
+          "location": "111:2:3",
+          "start": 1.12,
+          "end": 1.68
+        },
+        {
+          "word": "مَالُهُۥ",
+          "location": "111:2:4",
+          "start": 1.84,
+          "end": 2.48
+        },
+        {
+          "word": "وَمَا",
+          "location": "111:2:5",
+          "start": 2.48,
+          "end": 2.8
+        },
+        {
+          "word": "كَسَبَۖ",
+          "location": "111:2:6",
+          "start": 2.88,
+          "end": 3.6
+        }
+      ]
+    },
+    {
+      "segment": 3,
+      "time_from": 11.49,
+      "time_to": 15.21,
+      "ref_from": "111:3:1",
+      "ref_to": "111:3:4",
+      "matched_text": "سَيَصْلَىٰ نَاراٗ ذَاتَ لَهَبٖ",
+      "confidence": 1.0,
+      "has_missing_words": false,
+      "has_repeated_words": false,
+      "special_type": null,
+      "error": null,
+      "words": [
+        {
+          "word": "سَيَصْلَىٰ",
+          "location": "111:3:1",
+          "start": 0.0,
+          "end": 1.2
+        },
+        {
+          "word": "نَاراٗ",
+          "location": "111:3:2",
+          "start": 1.2,
+          "end": 2.08
+        },
+        {
+          "word": "ذَاتَ",
+          "location": "111:3:3",
+          "start": 2.32,
+          "end": 2.8
+        },
+        {
+          "word": "لَهَبٖ",
+          "location": "111:3:4",
+          "start": 2.8,
+          "end": 3.6
+        }
+      ]
+    },
+    {
+      "segment": 4,
+      "time_from": 15.33,
+      "time_to": 16.61,
+      "ref_from": "111:4:1",
+      "ref_to": "111:4:1",
+      "matched_text": "وَامْرَأَتُهُۥۖ",
+      "confidence": 1.0,
+      "has_missing_words": false,
+      "has_repeated_words": false,
+      "special_type": null,
+      "error": null,
+      "words": [
+        {
+          "word": "وَامْرَأَتُهُۥۖ",
+          "location": "111:4:1",
+          "start": 0.0,
+          "end": 1.44
+        }
+      ]
+    },
+    {
+      "segment": 5,
+      "time_from": 17.517,
+      "time_to": 24.557,
+      "ref_from": "111:4:2",
+      "ref_to": "111:5:5",
+      "matched_text": "حَمَّالَةُ اُ۬لْحَطَبِ فِے جِيدِهَا حَبْلٞ مِّن مَّسَدِۢۖ",
+      "confidence": 0.939,
+      "has_missing_words": false,
+      "has_repeated_words": false,
+      "special_type": null,
+      "error": null,
+      "words": [
+        {
+          "word": "حَمَّالَةُ",
+          "location": "111:4:2",
+          "start": 0.0,
+          "end": 1.68
+        },
+        {
+          "word": "اُ۬لْحَطَبِ",
+          "location": "111:4:3",
+          "start": 1.68,
+          "end": 2.48
+        },
+        {
+          "word": "فِے",
+          "location": "111:5:1",
+          "start": 2.48,
+          "end": 2.8
+        },
+        {
+          "word": "جِيدِهَا",
+          "location": "111:5:2",
+          "start": 2.8,
+          "end": 4.0
+        },
+        {
+          "word": "حَبْلٞ",
+          "location": "111:5:3",
+          "start": 4.0,
+          "end": 4.96
+        },
+        {
+          "word": "مِّن",
+          "location": "111:5:4",
+          "start": 5.28,
+          "end": 5.68
+        },
+        {
+          "word": "مَّسَدِۢۖ",
+          "location": "111:5:5",
+          "start": 6.0,
+          "end": 6.96
+        }
+      ]
+    }
+  ]
+}

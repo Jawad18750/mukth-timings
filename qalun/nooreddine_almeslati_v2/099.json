@@ -1,0 +1,388 @@
+{
+  "reciter": "nooreddine_almeslati_v2",
+  "surah": 99,
+  "detected_surah": 99,
+  "surah_mismatch": false,
+  "surahs_present": [
+    99
+  ],
+  "alternate_source": false,
+  "chunk_window": 10.5,
+  "segments": [
+    {
+      "segment": 1,
+      "time_from": 1.67,
+      "time_to": 4.15,
+      "ref_from": "",
+      "ref_to": "",
+      "matched_text": "بِسْمِ ٱللَّهِ ٱلرَّحْمَٰنِ ٱلرَّحِيم",
+      "confidence": 0.957,
+      "has_missing_words": false,
+      "has_repeated_words": false,
+      "special_type": "Basmala",
+      "error": null,
+      "words": [
+        {
+          "word": "بِسْمِ",
+          "location": "0:0:1",
+          "start": 0.0,
+          "end": 0.56
+        },
+        {
+          "word": "ٱللَّهِ",
+          "location": "0:0:2",
+          "start": 0.56,
+          "end": 0.88
+        },
+        {
+          "word": "ٱلرَّحْمَٰنِ",
+          "location": "0:0:3",
+          "start": 1.04,
+          "end": 2.08
+        },
+        {
+          "word": "ٱلرَّحِيم",
+          "location": "0:0:4",
+          "start": 2.08,
+          "end": 2.88
+        }
+      ]
+    },
+    {
+      "segment": 2,
+      "time_from": 5.67,
+      "time_to": 9.35,
+      "ref_from": "99:1:1",
+      "ref_to": "99:1:4",
+      "matched_text": "إِذَا زُلْزِلَتِ اِ۬لْأَرْضُ زِلْزَالَهَا",
+      "confidence": 1.0,
+      "has_missing_words": false,
+      "has_repeated_words": false,
+      "special_type": null,
+      "error": null,
+      "words": [
+        {
+          "word": "إِذَا",
+          "location": "99:1:1",
+          "start": 0.0,
+          "end": 0.24
+        },
+        {
+          "word": "زُلْزِلَتِ",
+          "location": "99:1:2",
+          "start": 0.48,
+          "end": 1.76
+        },
+        {
+          "word": "اِ۬لْأَرْضُ",
+          "location": "99:1:3",
+          "start": 1.76,
+          "end": 2.08
+        },
+        {
+          "word": "زِلْزَالَهَا",
+          "location": "99:1:4",
+          "start": 2.32,
+          "end": 3.84
+        }
+      ]
+    },
+    {
+      "segment": 3,
+      "time_from": 10.359,
+      "time_to": 13.839,
+      "ref_from": "99:2:1",
+      "ref_to": "99:2:3",
+      "matched_text": "وَأَخْرَجَتِ اِ۬لْأَرْضُ أَثْقَالَهَا",
+      "confidence": 0.976,
+      "has_missing_words": false,
+      "has_repeated_words": false,
+      "special_type": null,
+      "error": null,
+      "words": [
+        {
+          "word": "وَأَخْرَجَتِ",
+          "location": "99:2:1",
+          "start": 0.0004,
+          "end": 1.2004
+        },
+        {
+          "word": "اِ۬لْأَرْضُ",
+          "location": "99:2:2",
+          "start": 1.2004,
+          "end": 1.5204
+        },
+        {
+          "word": "أَثْقَالَهَا",
+          "location": "99:2:3",
+          "start": 1.7604,
+          "end": 3.2004
+        }
+      ]
+    },
+    {
+      "segment": 4,
+      "time_from": 14.119,
+      "time_to": 17.799,
+      "ref_from": "99:3:1",
+      "ref_to": "99:3:4",
+      "matched_text": "وَقَالَ اَ۬لْإِنسَٰنُ مَا لَهَا",
+      "confidence": 0.976,
+      "has_missing_words": false,
+      "has_repeated_words": false,
+      "special_type": null,
+      "error": null,
+      "words": [
+        {
+          "word": "وَقَالَ",
+          "location": "99:3:1",
+          "start": 0.0004,
+          "end": 0.4004
+        },
+        {
+          "word": "اَ۬لْإِنسَٰنُ",
+          "location": "99:3:2",
+          "start": 1.1204,
+          "end": 2.8004
+        },
+        {
+          "word": "مَا",
+          "location": "99:3:3",
+          "start": 2.8004,
+          "end": 3.1204
+        },
+        {
+          "word": "لَهَا",
+          "location": "99:3:4",
+          "start": 3.2004,
+          "end": 3.6004
+        }
+      ]
+    },
+    {
+      "segment": 5,
+      "time_from": 18.932,
+      "time_to": 22.932,
+      "ref_from": "99:4:1",
+      "ref_to": "99:4:3",
+      "matched_text": "يَوْمَئِذٖ تُحَدِّثُ أَخْبَارَهَا",
+      "confidence": 1.0,
+      "has_missing_words": false,
+      "has_repeated_words": false,
+      "special_type": null,
+      "error": null,
+      "words": [
+        {
+          "word": "يَوْمَئِذٖ",
+          "location": "99:4:1",
+          "start": 0.0,
+          "end": 1.1199
+        },
+        {
+          "word": "تُحَدِّثُ",
+          "location": "99:4:2",
+          "start": 1.7599,
+          "end": 2.1599
+        },
+        {
+          "word": "أَخْبَارَهَا",
+          "location": "99:4:3",
+          "start": 2.5599,
+          "end": 3.9199
+        }
+      ]
+    },
+    {
+      "segment": 6,
+      "time_from": 23.012,
+      "time_to": 26.052,
+      "ref_from": "99:5:1",
+      "ref_to": "99:5:4",
+      "matched_text": "بِأَنَّ رَبَّكَ أَوْحَىٰ لَهَاۖ",
+      "confidence": 1.0,
+      "has_missing_words": false,
+      "has_repeated_words": false,
+      "special_type": null,
+      "error": null,
+      "words": [
+        {
+          "word": "بِأَنَّ",
+          "location": "99:5:1",
+          "start": 0.0,
+          "end": 0.3999
+        },
+        {
+          "word": "رَبَّكَ",
+          "location": "99:5:2",
+          "start": 1.0399,
+          "end": 1.9199
+        },
+        {
+          "word": "أَوْحَىٰ",
+          "location": "99:5:3",
+          "start": 1.9199,
+          "end": 2.7199
+        },
+        {
+          "word": "لَهَاۖ",
+          "location": "99:5:4",
+          "start": 2.7199,
+          "end": 3.0399
+        }
+      ]
+    },
+    {
+      "segment": 7,
+      "time_from": 27.364,
+      "time_to": 33.524,
+      "ref_from": "99:6:1",
+      "ref_to": "99:6:6",
+      "matched_text": "يَوْمَئِذٖ يَصْدُرُ اُ۬لنَّاسُ أَشْتَاتاٗ لِّيُرَوْاْ أَعْمَٰلَهُمْۖ",
+      "confidence": 0.974,
+      "has_missing_words": false,
+      "has_repeated_words": false,
+      "special_type": null,
+      "error": null,
+      "words": [
+        {
+          "word": "يَوْمَئِذٖ",
+          "location": "99:6:1",
+          "start": 0.0,
+          "end": 1.04
+        },
+        {
+          "word": "يَصْدُرُ",
+          "location": "99:6:2",
+          "start": 1.2,
+          "end": 2.0
+        },
+        {
+          "word": "اُ۬لنَّاسُ",
+          "location": "99:6:3",
+          "start": 2.4,
+          "end": 2.8
+        },
+        {
+          "word": "أَشْتَاتاٗ",
+          "location": "99:6:4",
+          "start": 3.12,
+          "end": 4.32
+        },
+        {
+          "word": "لِّيُرَوْاْ",
+          "location": "99:6:5",
+          "start": 4.32,
+          "end": 5.36
+        },
+        {
+          "word": "أَعْمَٰلَهُمْۖ",
+          "location": "99:6:6",
+          "start": 5.36,
+          "end": 6.32
+        }
+      ]
+    },
+    {
+      "segment": 8,
+      "time_from": 34.611,
+      "time_to": 40.291,
+      "ref_from": "99:7:1",
+      "ref_to": "99:7:6",
+      "matched_text": "فَمَنْ يَّعْمَلْ مِثْقَالَ ذَرَّةٍ خَيْراٗ يَرَهُۥۖ",
+      "confidence": 1.0,
+      "has_missing_words": false,
+      "has_repeated_words": false,
+      "special_type": null,
+      "error": null,
+      "words": [
+        {
+          "word": "فَمَنْ",
+          "location": "99:7:1",
+          "start": 0.0,
+          "end": 0.48
+        },
+        {
+          "word": "يَّعْمَلْ",
+          "location": "99:7:2",
+          "start": 0.72,
+          "end": 1.36
+        },
+        {
+          "word": "مِثْقَالَ",
+          "location": "99:7:3",
+          "start": 1.52,
+          "end": 2.56
+        },
+        {
+          "word": "ذَرَّةٍ",
+          "location": "99:7:4",
+          "start": 2.56,
+          "end": 3.52
+        },
+        {
+          "word": "خَيْراٗ",
+          "location": "99:7:5",
+          "start": 3.6,
+          "end": 4.56
+        },
+        {
+          "word": "يَرَهُۥۖ",
+          "location": "99:7:6",
+          "start": 5.28,
+          "end": 5.84
+        }
+      ]
+    },
+    {
+      "segment": 9,
+      "time_from": 41.102,
+      "time_to": 47.262,
+      "ref_from": "99:8:1",
+      "ref_to": "99:8:6",
+      "matched_text": "وَمَنْ يَّعْمَلْ مِثْقَالَ ذَرَّةٖ شَرّاٗ يَرَهُۥۖ",
+      "confidence": 1.0,
+      "has_missing_words": false,
+      "has_repeated_words": false,
+      "special_type": null,
+      "error": null,
+      "words": [
+        {
+          "word": "وَمَنْ",
+          "location": "99:8:1",
+          "start": 0.0,
+          "end": 0.24
+        },
+        {
+          "word": "يَّعْمَلْ",
+          "location": "99:8:2",
+          "start": 0.72,
+          "end": 1.52
+        },
+        {
+          "word": "مِثْقَالَ",
+          "location": "99:8:3",
+          "start": 1.52,
+          "end": 2.64
+        },
+        {
+          "word": "ذَرَّةٖ",
+          "location": "99:8:4",
+          "start": 2.64,
+          "end": 3.6
+        },
+        {
+          "word": "شَرّاٗ",
+          "location": "99:8:5",
+          "start": 4.24,
+          "end": 5.28
+        },
+        {
+          "word": "يَرَهُۥۖ",
+          "location": "99:8:6",
+          "start": 5.68,
+          "end": 6.32
+        }
+      ]
+    }
+  ]
+}

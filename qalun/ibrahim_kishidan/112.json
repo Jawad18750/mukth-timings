@@ -1,0 +1,178 @@
+{
+  "reciter": "ibrahim_kishidan",
+  "surah": 112,
+  "detected_surah": 112,
+  "surah_mismatch": false,
+  "surahs_present": [
+    112
+  ],
+  "alternate_source": false,
+  "chunk_window": 10.5,
+  "segments": [
+    {
+      "segment": 1,
+      "time_from": 2.08,
+      "time_to": 3.6,
+      "ref_from": "",
+      "ref_to": "",
+      "matched_text": "",
+      "confidence": 0.0,
+      "has_missing_words": false,
+      "has_repeated_words": false,
+      "special_type": null,
+      "error": "Low confidence (0%)",
+      "words": [],
+      "likely_opening": true
+    },
+    {
+      "segment": 2,
+      "time_from": 4.56,
+      "time_to": 7.12,
+      "ref_from": "112:1:1",
+      "ref_to": "112:1:4",
+      "matched_text": "قُلْ هُوَ اَ۬للَّهُ أَحَدٌۖ",
+      "confidence": 1.0,
+      "has_missing_words": false,
+      "has_repeated_words": false,
+      "special_type": null,
+      "error": null,
+      "words": [
+        {
+          "word": "قُلْ",
+          "location": "112:1:1",
+          "start": 0.0,
+          "end": 0.24
+        },
+        {
+          "word": "هُوَ",
+          "location": "112:1:2",
+          "start": 0.32,
+          "end": 0.72
+        },
+        {
+          "word": "اَ۬للَّهُ",
+          "location": "112:1:3",
+          "start": 0.8,
+          "end": 1.2
+        },
+        {
+          "word": "أَحَدٌۖ",
+          "location": "112:1:4",
+          "start": 1.68,
+          "end": 2.08
+        }
+      ]
+    },
+    {
+      "segment": 3,
+      "time_from": 7.6,
+      "time_to": 9.2,
+      "ref_from": "112:2:1",
+      "ref_to": "112:2:2",
+      "matched_text": "اِ۬للَّهُ اُ۬لصَّمَدُۖ",
+      "confidence": 1.0,
+      "has_missing_words": false,
+      "has_repeated_words": false,
+      "special_type": null,
+      "error": null,
+      "words": [
+        {
+          "word": "اِ۬للَّهُ",
+          "location": "112:2:1",
+          "start": 0.0,
+          "end": 0.4
+        },
+        {
+          "word": "اُ۬لصَّمَدُۖ",
+          "location": "112:2:2",
+          "start": 0.8,
+          "end": 1.76
+        }
+      ]
+    },
+    {
+      "segment": 4,
+      "time_from": 9.992,
+      "time_to": 12.632,
+      "ref_from": "112:3:1",
+      "ref_to": "112:3:4",
+      "matched_text": "لَمْ يَلِدْ وَلَمْ يُولَدْۖ",
+      "confidence": 0.972,
+      "has_missing_words": false,
+      "has_repeated_words": false,
+      "special_type": null,
+      "error": null,
+      "words": [
+        {
+          "word": "لَمْ",
+          "location": "112:3:1",
+          "start": 0.0,
+          "end": 0.2396
+        },
+        {
+          "word": "يَلِدْ",
+          "location": "112:3:2",
+          "start": 0.3196,
+          "end": 0.8796
+        },
+        {
+          "word": "وَلَمْ",
+          "location": "112:3:3",
+          "start": 0.8796,
+          "end": 1.1996
+        },
+        {
+          "word": "يُولَدْۖ",
+          "location": "112:3:4",
+          "start": 1.4396,
+          "end": 2.4796
+        }
+      ]
+    },
+    {
+      "segment": 5,
+      "time_from": 12.792,
+      "time_to": 16.632,
+      "ref_from": "112:4:1",
+      "ref_to": "112:4:5",
+      "matched_text": "وَلَمْ يَكُن لَّهُۥ كُفُؤاً أَحَدُۢۖ",
+      "confidence": 0.972,
+      "has_missing_words": false,
+      "has_repeated_words": false,
+      "special_type": null,
+      "error": null,
+      "words": [
+        {
+          "word": "وَلَمْ",
+          "location": "112:4:1",
+          "start": 0.0,
+          "end": 0.3996
+        },
+        {
+          "word": "يَكُن",
+          "location": "112:4:2",
+          "start": 0.6396,
+          "end": 1.4396
+        },
+        {
+          "word": "لَّهُۥ",
+          "location": "112:4:3",
+          "start": 1.4396,
+          "end": 1.7596
+        },
+        {
+          "word": "كُفُؤاً",
+          "location": "112:4:4",
+          "start": 1.9196,
+          "end": 3.1196
+        },
+        {
+          "word": "أَحَدُۢۖ",
+          "location": "112:4:5",
+          "start": 3.2796,
+          "end": 3.6796
+        }
+      ]
+    }
+  ]
+}

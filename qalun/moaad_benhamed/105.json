@@ -1,0 +1,234 @@
+{
+  "reciter": "moaad_benhamed",
+  "surah": 105,
+  "detected_surah": 105,
+  "surah_mismatch": false,
+  "surahs_present": [
+    105
+  ],
+  "alternate_source": false,
+  "chunk_window": 10.5,
+  "segments": [
+    {
+      "segment": 1,
+      "time_from": 0.0,
+      "time_to": 7.76,
+      "ref_from": "",
+      "ref_to": "",
+      "matched_text": "",
+      "confidence": 0.0,
+      "has_missing_words": false,
+      "has_repeated_words": false,
+      "special_type": null,
+      "error": "Low confidence (0%)",
+      "words": [],
+      "likely_opening": true
+    },
+    {
+      "segment": 2,
+      "time_from": 8.434,
+      "time_to": 9.235,
+      "ref_from": "105:1:8",
+      "ref_to": "105:1:8",
+      "matched_text": "اِ۬لْفِيلِۖ",
+      "confidence": 0.833,
+      "has_missing_words": false,
+      "has_repeated_words": false,
+      "special_type": null,
+      "error": null,
+      "words": [
+        {
+          "word": "اِ۬لْفِيلِۖ",
+          "location": "105:1:8",
+          "start": 0.16,
+          "end": 0.96
+        }
+      ]
+    },
+    {
+      "segment": 3,
+      "time_from": 11.385,
+      "time_to": 15.745,
+      "ref_from": "105:2:1",
+      "ref_to": "105:2:5",
+      "matched_text": "أَلَمْ يَجْعَلْ كَيْدَهُمْ فِے تَضْلِيلٖ",
+      "confidence": 0.944,
+      "has_missing_words": false,
+      "has_repeated_words": false,
+      "special_type": null,
+      "error": null,
+      "words": [
+        {
+          "word": "أَلَمْ",
+          "location": "105:2:1",
+          "start": 0.0002,
+          "end": 0.4002
+        },
+        {
+          "word": "يَجْعَلْ",
+          "location": "105:2:2",
+          "start": 0.4002,
+          "end": 0.8002
+        },
+        {
+          "word": "كَيْدَهُمْ",
+          "location": "105:2:3",
+          "start": 1.2002,
+          "end": 2.3202
+        },
+        {
+          "word": "فِے",
+          "location": "105:2:4",
+          "start": 2.4002,
+          "end": 2.8002
+        },
+        {
+          "word": "تَضْلِيلٖ",
+          "location": "105:2:5",
+          "start": 2.8802,
+          "end": 3.8402
+        }
+      ]
+    },
+    {
+      "segment": 4,
+      "time_from": 16.265,
+      "time_to": 18.105,
+      "ref_from": "105:3:1",
+      "ref_to": "105:3:2",
+      "matched_text": "وَأَرْسَلَ عَلَيْهِمْ",
+      "confidence": 0.944,
+      "has_missing_words": false,
+      "has_repeated_words": false,
+      "special_type": null,
+      "error": null,
+      "words": [
+        {
+          "word": "وَأَرْسَلَ",
+          "location": "105:3:1",
+          "start": 0.0002,
+          "end": 0.9602
+        },
+        {
+          "word": "عَلَيْهِمْ",
+          "location": "105:3:2",
+          "start": 1.2002,
+          "end": 2.0002
+        }
+      ]
+    },
+    {
+      "segment": 5,
+      "time_from": 18.928,
+      "time_to": 24.048,
+      "ref_from": "105:3:3",
+      "ref_to": "105:4:2",
+      "matched_text": "طَيْراً أَبَابِيلَ تَرْمِيهِم بِحِجَارَةٖ",
+      "confidence": 0.962,
+      "has_missing_words": false,
+      "has_repeated_words": false,
+      "special_type": null,
+      "error": null,
+      "words": [
+        {
+          "word": "طَيْراً",
+          "location": "105:3:3",
+          "start": 0.0,
+          "end": 0.8
+        },
+        {
+          "word": "أَبَابِيلَ",
+          "location": "105:3:4",
+          "start": 0.8,
+          "end": 2.0
+        },
+        {
+          "word": "تَرْمِيهِم",
+          "location": "105:4:1",
+          "start": 2.0,
+          "end": 3.36
+        },
+        {
+          "word": "بِحِجَارَةٖ",
+          "location": "105:4:2",
+          "start": 3.92,
+          "end": 5.28
+        }
+      ]
+    },
+    {
+      "segment": 6,
+      "time_from": 24.327,
+      "time_to": 27.927,
+      "ref_from": "105:4:3",
+      "ref_to": "105:4:4",
+      "matched_text": "مِّن سِجِّيلٖ",
+      "confidence": 0.667,
+      "has_missing_words": true,
+      "has_repeated_words": false,
+      "special_type": null,
+      "error": null,
+      "words": [
+        {
+          "word": "مِّن",
+          "location": "105:4:3",
+          "start": 0.08,
+          "end": 0.48
+        },
+        {
+          "word": "سِجِّيلٖ",
+          "location": "105:4:4",
+          "start": 2.4,
+          "end": 3.6
+        }
+      ]
+    },
+    {
+      "ref_from": "105:5:1",
+      "ref_to": "105:5:1",
+      "time_from": 26.627,
+      "time_to": 31.896,
+      "confidence": 0.221,
+      "matched_text": "فَجَعَلَهُمْ",
+      "filled_gap": true,
+      "fill_check": "verified",
+      "fill_offset": 0.1,
+      "words": [
+        {
+          "word": "فَجَعَلَهُمْ",
+          "location": "105:5:1",
+          "start": 2.24,
+          "end": 3.36
+        }
+      ]
+    },
+    {
+      "segment": 7,
+      "time_from": 31.076,
+      "time_to": 33.396,
+      "ref_from": "105:5:2",
+      "ref_to": "105:5:3",
+      "matched_text": "كَعَصْفٖ مَّأْكُولِۢۖ",
+      "confidence": 0.727,
+      "has_missing_words": false,
+      "has_repeated_words": false,
+      "special_type": null,
+      "error": null,
+      "words": [
+        {
+          "word": "كَعَصْفٖ",
+          "location": "105:5:2",
+          "start": 0.0,
+          "end": 0.72
+        },
+        {
+          "word": "مَّأْكُولِۢۖ",
+          "location": "105:5:3",
+          "start": 1.04,
+          "end": 2.48
+        }
+      ]
+    }
+  ],
+  "gap_filled_words": 1
+}

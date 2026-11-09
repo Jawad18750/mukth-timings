@@ -1,0 +1,307 @@
+{
+  "reciter": "ahmed_alqulaib",
+  "surah": 97,
+  "detected_surah": 97,
+  "surah_mismatch": false,
+  "surahs_present": [
+    97
+  ],
+  "alternate_source": false,
+  "chunk_window": 10.5,
+  "segments": [
+    {
+      "segment": 1,
+      "time_from": 0.16,
+      "time_to": 2.48,
+      "ref_from": "",
+      "ref_to": "",
+      "matched_text": "بِسْمِ ٱللَّهِ ٱلرَّحْمَٰنِ ٱلرَّحِيم",
+      "confidence": 1.0,
+      "has_missing_words": false,
+      "has_repeated_words": false,
+      "special_type": "Basmala",
+      "error": null,
+      "words": [
+        {
+          "word": "بِسْمِ",
+          "location": "0:0:1",
+          "start": 0.0,
+          "end": 0.48
+        },
+        {
+          "word": "ٱللَّهِ",
+          "location": "0:0:2",
+          "start": 0.48,
+          "end": 0.56
+        },
+        {
+          "word": "ٱلرَّحْمَٰنِ",
+          "location": "0:0:3",
+          "start": 0.56,
+          "end": 1.92
+        },
+        {
+          "word": "ٱلرَّحِيم",
+          "location": "0:0:4",
+          "start": 1.92,
+          "end": 2.8
+        }
+      ]
+    },
+    {
+      "segment": 2,
+      "time_from": 4.84,
+      "time_to": 9.56,
+      "ref_from": "97:1:2",
+      "ref_to": "97:1:6",
+      "matched_text": "إِنَّا أَنزَلْنَٰهُ فِے لَيْلَةِ اِ۬لْقَدْرِۖ",
+      "confidence": 0.923,
+      "has_missing_words": true,
+      "has_repeated_words": false,
+      "special_type": null,
+      "error": null,
+      "words": [
+        {
+          "word": "إِنَّا",
+          "location": "97:1:2",
+          "start": 0.0,
+          "end": 1.12
+        },
+        {
+          "word": "أَنزَلْنَٰهُ",
+          "location": "97:1:3",
+          "start": 1.12,
+          "end": 2.96
+        },
+        {
+          "word": "فِے",
+          "location": "97:1:4",
+          "start": 3.12,
+          "end": 3.52
+        },
+        {
+          "word": "لَيْلَةِ",
+          "location": "97:1:5",
+          "start": 3.6,
+          "end": 4.08
+        },
+        {
+          "word": "اِ۬لْقَدْرِۖ",
+          "location": "97:1:6",
+          "start": 4.08,
+          "end": 4.88
+        }
+      ]
+    },
+    {
+      "segment": 3,
+      "time_from": 10.38,
+      "time_to": 13.82,
+      "ref_from": "97:2:1",
+      "ref_to": "97:2:5",
+      "matched_text": "وَمَا أَدْرَىٰكَ مَا لَيْلَةُ اُ۬لْقَدْرِۖ",
+      "confidence": 0.958,
+      "has_missing_words": false,
+      "has_repeated_words": false,
+      "special_type": null,
+      "error": null,
+      "words": [
+        {
+          "word": "وَمَا",
+          "location": "97:2:1",
+          "start": 0.0,
+          "end": 0.24
+        },
+        {
+          "word": "أَدْرَىٰكَ",
+          "location": "97:2:2",
+          "start": 0.32,
+          "end": 1.52
+        },
+        {
+          "word": "مَا",
+          "location": "97:2:3",
+          "start": 1.52,
+          "end": 1.84
+        },
+        {
+          "word": "لَيْلَةُ",
+          "location": "97:2:4",
+          "start": 1.84,
+          "end": 2.8
+        },
+        {
+          "word": "اُ۬لْقَدْرِۖ",
+          "location": "97:2:5",
+          "start": 2.8,
+          "end": 3.6
+        }
+      ]
+    },
+    {
+      "segment": 4,
+      "time_from": 14.588,
+      "time_to": 19.068,
+      "ref_from": "97:3:1",
+      "ref_to": "97:3:6",
+      "matched_text": "لَيْلَةُ اُ۬لْقَدْرِ خَيْرٞ مِّنْ أَلْفِ شَهْرٖۖ",
+      "confidence": 1.0,
+      "has_missing_words": false,
+      "has_repeated_words": false,
+      "special_type": null,
+      "error": null,
+      "words": [
+        {
+          "word": "لَيْلَةُ",
+          "location": "97:3:1",
+          "start": 0.32,
+          "end": 0.88
+        },
+        {
+          "word": "اُ۬لْقَدْرِ",
+          "location": "97:3:2",
+          "start": 0.88,
+          "end": 1.6
+        },
+        {
+          "word": "خَيْرٞ",
+          "location": "97:3:3",
+          "start": 1.6,
+          "end": 1.84
+        },
+        {
+          "word": "مِّنْ",
+          "location": "97:3:4",
+          "start": 2.56,
+          "end": 2.96
+        },
+        {
+          "word": "أَلْفِ",
+          "location": "97:3:5",
+          "start": 3.36,
+          "end": 3.68
+        },
+        {
+          "word": "شَهْرٖۖ",
+          "location": "97:3:6",
+          "start": 3.68,
+          "end": 4.24
+        }
+      ]
+    },
+    {
+      "segment": 5,
+      "time_from": 19.695,
+      "time_to": 29.867,
+      "ref_from": "97:4:1",
+      "ref_to": "97:4:9",
+      "matched_text": "تَنَزَّلُ اُ۬لْمَلَٰٓئِكَةُ وَالرُّوحُ فِيهَا بِإِذْنِ رَبِّهِم مِّن كُلِّ أَمْرٖۖ",
+      "confidence": 0.88,
+      "has_missing_words": false,
+      "has_repeated_words": false,
+      "special_type": null,
+      "error": null,
+      "words": [
+        {
+          "word": "تَنَزَّلُ",
+          "location": "97:4:1",
+          "start": 0.0,
+          "end": 1.04
+        },
+        {
+          "word": "اُ۬لْمَلَٰٓئِكَةُ",
+          "location": "97:4:2",
+          "start": 1.04,
+          "end": 3.68
+        },
+        {
+          "word": "وَالرُّوحُ",
+          "location": "97:4:3",
+          "start": 3.68,
+          "end": 4.48
+        },
+        {
+          "word": "فِيهَا",
+          "location": "97:4:4",
+          "start": 4.48,
+          "end": 5.2918
+        },
+        {
+          "word": "بِإِذْنِ",
+          "location": "97:4:5",
+          "start": 5.5318,
+          "end": 6.5718
+        },
+        {
+          "word": "رَبِّهِم",
+          "location": "97:4:6",
+          "start": 6.5718,
+          "end": 7.3718
+        },
+        {
+          "word": "مِّن",
+          "location": "97:4:7",
+          "start": 7.7718,
+          "end": 8.1718
+        },
+        {
+          "word": "كُلِّ",
+          "location": "97:4:8",
+          "start": 8.6518,
+          "end": 9.0518
+        },
+        {
+          "word": "أَمْرٖۖ",
+          "location": "97:4:9",
+          "start": 9.2918,
+          "end": 9.6918
+        }
+      ]
+    },
+    {
+      "segment": 6,
+      "time_from": 30.414,
+      "time_to": 34.814,
+      "ref_from": "97:5:1",
+      "ref_to": "97:5:5",
+      "matched_text": "سَلَٰمٌ هِيَ حَتَّىٰ مَطْلَعِ اِ۬لْفَجْرِۖ",
+      "confidence": 0.957,
+      "has_missing_words": false,
+      "has_repeated_words": false,
+      "special_type": null,
+      "error": null,
+      "words": [
+        {
+          "word": "سَلَٰمٌ",
+          "location": "97:5:1",
+          "start": 0.64,
+          "end": 0.96
+        },
+        {
+          "word": "هِيَ",
+          "location": "97:5:2",
+          "start": 0.96,
+          "end": 1.28
+        },
+        {
+          "word": "حَتَّىٰ",
+          "location": "97:5:3",
+          "start": 1.36,
+          "end": 1.76
+        },
+        {
+          "word": "مَطْلَعِ",
+          "location": "97:5:4",
+          "start": 2.24,
+          "end": 3.52
+        },
+        {
+          "word": "اِ۬لْفَجْرِۖ",
+          "location": "97:5:5",
+          "start": 3.52,
+          "end": 4.32
+        }
+      ]
+    }
+  ]
+}

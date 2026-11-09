@@ -1,0 +1,161 @@
+{
+  "reciter": "mohamed_fadil",
+  "surah": 108,
+  "detected_surah": 108,
+  "surah_mismatch": false,
+  "surahs_present": [
+    108
+  ],
+  "alternate_source": false,
+  "chunk_window": 10.5,
+  "segments": [
+    {
+      "segment": 1,
+      "time_from": 0.0,
+      "time_to": 0.08,
+      "ref_from": "",
+      "ref_to": "",
+      "matched_text": "",
+      "confidence": 0.0,
+      "has_missing_words": false,
+      "has_repeated_words": false,
+      "special_type": null,
+      "error": "Low confidence (0%)",
+      "words": [],
+      "likely_opening": true
+    },
+    {
+      "segment": 2,
+      "time_from": 1.64,
+      "time_to": 6.84,
+      "ref_from": "",
+      "ref_to": "",
+      "matched_text": "",
+      "confidence": 0.0,
+      "has_missing_words": false,
+      "has_repeated_words": false,
+      "special_type": null,
+      "error": "Low confidence (0%)",
+      "words": []
+    },
+    {
+      "segment": 3,
+      "time_from": 7.076,
+      "time_to": 11.276,
+      "ref_from": "108:1:1",
+      "ref_to": "108:1:3",
+      "matched_text": "إِنَّا أَعْطَيْنَٰكَ اَ۬لْكَوْثَرَ",
+      "confidence": 0.971,
+      "has_missing_words": false,
+      "has_repeated_words": false,
+      "special_type": null,
+      "error": null,
+      "words": [
+        {
+          "word": "إِنَّا",
+          "location": "108:1:1",
+          "start": 0.0004,
+          "end": 1.2004
+        },
+        {
+          "word": "أَعْطَيْنَٰكَ",
+          "location": "108:1:2",
+          "start": 1.2004,
+          "end": 2.8004
+        },
+        {
+          "word": "اَ۬لْكَوْثَرَ",
+          "location": "108:1:3",
+          "start": 2.8004,
+          "end": 3.8404
+        }
+      ]
+    },
+    {
+      "segment": 4,
+      "time_from": 11.636,
+      "time_to": 14.436,
+      "ref_from": "108:2:1",
+      "ref_to": "108:2:3",
+      "matched_text": "فَصَلِّ لِرَبِّكَ وَانْحَرْۖ",
+      "confidence": 0.971,
+      "has_missing_words": false,
+      "has_repeated_words": false,
+      "special_type": null,
+      "error": null,
+      "words": [
+        {
+          "word": "فَصَلِّ",
+          "location": "108:2:1",
+          "start": 0.0004,
+          "end": 0.6404
+        },
+        {
+          "word": "لِرَبِّكَ",
+          "location": "108:2:2",
+          "start": 0.8804,
+          "end": 2.0004
+        },
+        {
+          "word": "وَانْحَرْۖ",
+          "location": "108:2:3",
+          "start": 2.0004,
+          "end": 2.7204
+        }
+      ]
+    },
+    {
+      "segment": 5,
+      "time_from": 15.552,
+      "time_to": 19.312,
+      "ref_from": "108:3:1",
+      "ref_to": "108:3:4",
+      "matched_text": "إِنَّ شَانِئَكَ هُوَ اَ۬لْأَبْتَرُۖ",
+      "confidence": 1.0,
+      "has_missing_words": false,
+      "has_repeated_words": false,
+      "special_type": null,
+      "error": null,
+      "words": [
+        {
+          "word": "إِنَّ",
+          "location": "108:3:1",
+          "start": 0.0,
+          "end": 0.24
+        },
+        {
+          "word": "شَانِئَكَ",
+          "location": "108:3:2",
+          "start": 0.88,
+          "end": 2.08
+        },
+        {
+          "word": "هُوَ",
+          "location": "108:3:3",
+          "start": 2.08,
+          "end": 2.4
+        },
+        {
+          "word": "اَ۬لْأَبْتَرُۖ",
+          "location": "108:3:4",
+          "start": 2.64,
+          "end": 3.76
+        }
+      ]
+    },
+    {
+      "segment": 6,
+      "time_from": 20.289,
+      "time_to": 21.889,
+      "ref_from": "",
+      "ref_to": "",
+      "matched_text": "",
+      "confidence": 0.0,
+      "has_missing_words": false,
+      "has_repeated_words": false,
+      "special_type": null,
+      "error": "Low confidence (0%)",
+      "words": []
+    }
+  ]
+}

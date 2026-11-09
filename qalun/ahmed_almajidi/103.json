@@ -1,0 +1,199 @@
+{
+  "reciter": "ahmed_almajidi",
+  "surah": 103,
+  "detected_surah": 103,
+  "surah_mismatch": false,
+  "surahs_present": [
+    103
+  ],
+  "alternate_source": false,
+  "chunk_window": 10.5,
+  "segments": [
+    {
+      "segment": 1,
+      "time_from": 0.8,
+      "time_to": 5.76,
+      "ref_from": "",
+      "ref_to": "",
+      "matched_text": "",
+      "confidence": 0.0,
+      "has_missing_words": false,
+      "has_repeated_words": false,
+      "special_type": null,
+      "error": "Low confidence (0%)",
+      "words": [],
+      "likely_opening": true
+    },
+    {
+      "segment": 2,
+      "time_from": 6.07,
+      "time_to": 7.35,
+      "ref_from": "103:1:1",
+      "ref_to": "103:1:1",
+      "matched_text": "وَالْعَصْرِ",
+      "confidence": 0.923,
+      "has_missing_words": false,
+      "has_repeated_words": false,
+      "special_type": null,
+      "error": null,
+      "words": [
+        {
+          "word": "وَالْعَصْرِ",
+          "location": "103:1:1",
+          "start": 0.0,
+          "end": 0.88
+        }
+      ]
+    },
+    {
+      "segment": 3,
+      "time_from": 7.75,
+      "time_to": 12.95,
+      "ref_from": "103:2:1",
+      "ref_to": "103:2:4",
+      "matched_text": "إِنَّ اَ۬لْإِنسَٰنَ لَفِے خُسْرٍ",
+      "confidence": 0.923,
+      "has_missing_words": false,
+      "has_repeated_words": false,
+      "special_type": null,
+      "error": null,
+      "words": [
+        {
+          "word": "إِنَّ",
+          "location": "103:2:1",
+          "start": 0.0,
+          "end": 0.4
+        },
+        {
+          "word": "اَ۬لْإِنسَٰنَ",
+          "location": "103:2:2",
+          "start": 1.92,
+          "end": 3.68
+        },
+        {
+          "word": "لَفِے",
+          "location": "103:2:3",
+          "start": 3.84,
+          "end": 4.24
+        },
+        {
+          "word": "خُسْرٍ",
+          "location": "103:2:4",
+          "start": 4.24,
+          "end": 4.96
+        }
+      ]
+    },
+    {
+      "segment": 4,
+      "time_from": 13.759,
+      "time_to": 23.199,
+      "ref_from": "103:3:1",
+      "ref_to": "103:3:9",
+      "matched_text": "إِلَّا اَ۬لذِينَ ءَامَنُواْ وَعَمِلُواْ اُ۬لصَّٰلِحَٰتِ وَتَوَاصَوْاْ بِالْحَقِّ وَتَوَاصَوْاْ بِالصَّبْرِۖ",
+      "confidence": 0.951,
+      "has_missing_words": false,
+      "has_repeated_words": false,
+      "special_type": null,
+      "error": null,
+      "words": [
+        {
+          "word": "إِلَّا",
+          "location": "103:3:1",
+          "start": 0.0,
+          "end": 0.24
+        },
+        {
+          "word": "اَ۬لذِينَ",
+          "location": "103:3:2",
+          "start": 0.56,
+          "end": 0.96
+        },
+        {
+          "word": "ءَامَنُواْ",
+          "location": "103:3:3",
+          "start": 1.36,
+          "end": 2.4
+        },
+        {
+          "word": "وَعَمِلُواْ",
+          "location": "103:3:4",
+          "start": 2.56,
+          "end": 3.36
+        },
+        {
+          "word": "اُ۬لصَّٰلِحَٰتِ",
+          "location": "103:3:5",
+          "start": 3.36,
+          "end": 4.64
+        },
+        {
+          "word": "وَتَوَاصَوْاْ",
+          "location": "103:3:6",
+          "start": 4.64,
+          "end": 6.0
+        },
+        {
+          "word": "بِالْحَقِّ",
+          "location": "103:3:7",
+          "start": 6.0,
+          "end": 6.8
+        },
+        {
+          "word": "وَتَوَاصَوْاْ",
+          "location": "103:3:8",
+          "start": 7.04,
+          "end": 8.48
+        },
+        {
+          "word": "بِالصَّبْرِۖ",
+          "location": "103:3:9",
+          "start": 8.48,
+          "end": 9.44
+        }
+      ]
+    },
+    {
+      "segment": 5,
+      "time_from": 24.013,
+      "time_to": 24.093,
+      "ref_from": "",
+      "ref_to": "",
+      "matched_text": "",
+      "confidence": 0.0,
+      "has_missing_words": false,
+      "has_repeated_words": false,
+      "special_type": null,
+      "error": "Low confidence (0%)",
+      "words": []
+    },
+    {
+      "segment": 6,
+      "time_from": 25.239,
+      "time_to": 25.319,
+      "ref_from": null,
+      "ref_to": null,
+      "matched_text": "",
+      "confidence": 0.0,
+      "has_missing_words": false,
+      "has_repeated_words": false,
+      "special_type": null,
+      "error": "Dropped: isolated match on surah 104 (file is 103)",
+      "words": []
+    },
+    {
+      "segment": 7,
+      "time_from": 27.641,
+      "time_to": 27.721,
+      "ref_from": null,
+      "ref_to": null,
+      "matched_text": "",
+      "confidence": 0.0,
+      "has_missing_words": true,
+      "has_repeated_words": false,
+      "special_type": null,
+      "error": "Dropped: isolated match on surah 104 (file is 103)",
+      "words": []
+    }
+  ]
+}

@@ -1,0 +1,178 @@
+{
+  "reciter": "ahmed_hussein_alalam",
+  "surah": 112,
+  "detected_surah": 112,
+  "surah_mismatch": false,
+  "surahs_present": [
+    112
+  ],
+  "alternate_source": false,
+  "chunk_window": 10.5,
+  "segments": [
+    {
+      "segment": 1,
+      "time_from": 4.64,
+      "time_to": 4.72,
+      "ref_from": "112:2:2",
+      "ref_to": "112:2:2",
+      "matched_text": "اُ۬لصَّمَدُۖ",
+      "confidence": 0.571,
+      "has_missing_words": false,
+      "has_repeated_words": false,
+      "special_type": null,
+      "error": null,
+      "words": [
+        {
+          "word": "اُ۬لصَّمَدُۖ",
+          "location": "112:2:2",
+          "start": 0.0,
+          "end": 1.68
+        }
+      ]
+    },
+    {
+      "segment": 2,
+      "time_from": 4.81,
+      "time_to": 7.41,
+      "ref_from": "112:1:1",
+      "ref_to": "112:1:4",
+      "matched_text": "قُلْ هُوَ اَ۬للَّهُ أَحَدٌۖ",
+      "confidence": 0.923,
+      "has_missing_words": false,
+      "has_repeated_words": false,
+      "special_type": null,
+      "error": null,
+      "words": [
+        {
+          "word": "قُلْ",
+          "location": "112:1:1",
+          "start": 0.0,
+          "end": 0.24
+        },
+        {
+          "word": "هُوَ",
+          "location": "112:1:2",
+          "start": 0.32,
+          "end": 0.72
+        },
+        {
+          "word": "اَ۬للَّهُ",
+          "location": "112:1:3",
+          "start": 0.8,
+          "end": 1.2
+        },
+        {
+          "word": "أَحَدٌۖ",
+          "location": "112:1:4",
+          "start": 1.68,
+          "end": 2.08
+        }
+      ]
+    },
+    {
+      "segment": 3,
+      "time_from": 7.93,
+      "time_to": 9.45,
+      "ref_from": "112:2:1",
+      "ref_to": "112:2:2",
+      "matched_text": "اِ۬للَّهُ",
+      "confidence": 0.923,
+      "has_missing_words": true,
+      "has_repeated_words": false,
+      "special_type": null,
+      "error": null,
+      "words": [
+        {
+          "word": "اِ۬للَّهُ",
+          "location": "112:2:1",
+          "start": 0.0,
+          "end": 0.4
+        }
+      ]
+    },
+    {
+      "segment": 4,
+      "time_from": 10.477,
+      "time_to": 13.157,
+      "ref_from": "112:3:1",
+      "ref_to": "112:3:4",
+      "matched_text": "لَمْ يَلِدْ وَلَمْ يُولَدْۖ",
+      "confidence": 0.972,
+      "has_missing_words": false,
+      "has_repeated_words": false,
+      "special_type": null,
+      "error": null,
+      "words": [
+        {
+          "word": "لَمْ",
+          "location": "112:3:1",
+          "start": 0.0,
+          "end": 0.2399
+        },
+        {
+          "word": "يَلِدْ",
+          "location": "112:3:2",
+          "start": 0.3199,
+          "end": 0.8799
+        },
+        {
+          "word": "وَلَمْ",
+          "location": "112:3:3",
+          "start": 0.8799,
+          "end": 1.1999
+        },
+        {
+          "word": "يُولَدْۖ",
+          "location": "112:3:4",
+          "start": 1.3599,
+          "end": 2.3999
+        }
+      ]
+    },
+    {
+      "segment": 5,
+      "time_from": 13.437,
+      "time_to": 16.877,
+      "ref_from": "112:4:1",
+      "ref_to": "112:4:5",
+      "matched_text": "وَلَمْ يَكُن لَّهُۥ كُفُؤاً أَحَدُۢۖ",
+      "confidence": 0.972,
+      "has_missing_words": false,
+      "has_repeated_words": false,
+      "special_type": null,
+      "error": null,
+      "words": [
+        {
+          "word": "وَلَمْ",
+          "location": "112:4:1",
+          "start": 0.0,
+          "end": 0.3999
+        },
+        {
+          "word": "يَكُن",
+          "location": "112:4:2",
+          "start": 0.5599,
+          "end": 1.2799
+        },
+        {
+          "word": "لَّهُۥ",
+          "location": "112:4:3",
+          "start": 1.2799,
+          "end": 1.5999
+        },
+        {
+          "word": "كُفُؤاً",
+          "location": "112:4:4",
+          "start": 1.6799,
+          "end": 2.7999
+        },
+        {
+          "word": "أَحَدُۢۖ",
+          "location": "112:4:5",
+          "start": 2.7999,
+          "end": 3.1999
+        }
+      ]
+    }
+  ]
+}

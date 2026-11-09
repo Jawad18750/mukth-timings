@@ -1,0 +1,181 @@
+{
+  "reciter": "ahmed_alqulaib",
+  "surah": 103,
+  "detected_surah": 103,
+  "surah_mismatch": false,
+  "surahs_present": [
+    103
+  ],
+  "alternate_source": false,
+  "chunk_window": 10.5,
+  "segments": [
+    {
+      "segment": 1,
+      "time_from": 0.64,
+      "time_to": 3.6,
+      "ref_from": "",
+      "ref_to": "",
+      "matched_text": "بِسْمِ ٱللَّهِ ٱلرَّحْمَٰنِ ٱلرَّحِيم",
+      "confidence": 0.767,
+      "has_missing_words": false,
+      "has_repeated_words": false,
+      "special_type": "Basmala",
+      "error": null,
+      "words": [
+        {
+          "word": "بِسْمِ",
+          "location": "0:0:1",
+          "start": 0.0,
+          "end": 0.64
+        },
+        {
+          "word": "ٱللَّهِ",
+          "location": "0:0:2",
+          "start": 0.64,
+          "end": 0.88
+        },
+        {
+          "word": "ٱلرَّحْمَٰنِ",
+          "location": "0:0:3",
+          "start": 1.12,
+          "end": 2.24
+        },
+        {
+          "word": "ٱلرَّحِيم",
+          "location": "0:0:4",
+          "start": 2.32,
+          "end": 3.28
+        }
+      ]
+    },
+    {
+      "segment": 2,
+      "time_from": 4.84,
+      "time_to": 9.68,
+      "ref_from": "103:1:1",
+      "ref_to": "103:2:4",
+      "matched_text": "وَالْعَصْرِ إِنَّ اَ۬لْإِنسَٰنَ لَفِے خُسْرٍ",
+      "confidence": 0.929,
+      "has_missing_words": false,
+      "has_repeated_words": false,
+      "special_type": null,
+      "error": null,
+      "words": [
+        {
+          "word": "وَالْعَصْرِ",
+          "location": "103:1:1",
+          "start": 0.0,
+          "end": 0.88
+        },
+        {
+          "word": "إِنَّ",
+          "location": "103:2:1",
+          "start": 0.96,
+          "end": 1.36
+        },
+        {
+          "word": "اَ۬لْإِنسَٰنَ",
+          "location": "103:2:2",
+          "start": 2.16,
+          "end": 3.6
+        },
+        {
+          "word": "لَفِے",
+          "location": "103:2:3",
+          "start": 3.68,
+          "end": 4.08
+        },
+        {
+          "word": "خُسْرٍ",
+          "location": "103:2:4",
+          "start": 4.08,
+          "end": 4.72
+        }
+      ]
+    },
+    {
+      "segment": 3,
+      "time_from": 9.8,
+      "time_to": 12.2,
+      "ref_from": "103:3:1",
+      "ref_to": "103:3:3",
+      "matched_text": "إِلَّا اَ۬لذِينَ ءَامَنُواْ",
+      "confidence": 0.929,
+      "has_missing_words": false,
+      "has_repeated_words": false,
+      "special_type": null,
+      "error": null,
+      "words": [
+        {
+          "word": "إِلَّا",
+          "location": "103:3:1",
+          "start": 0.0,
+          "end": 0.4
+        },
+        {
+          "word": "اَ۬لذِينَ",
+          "location": "103:3:2",
+          "start": 0.72,
+          "end": 1.12
+        },
+        {
+          "word": "ءَامَنُواْ",
+          "location": "103:3:3",
+          "start": 1.52,
+          "end": 2.56
+        }
+      ]
+    },
+    {
+      "segment": 4,
+      "time_from": 13.36,
+      "time_to": 23.04,
+      "ref_from": "103:3:1",
+      "ref_to": "103:3:9",
+      "matched_text": "وَعَمِلُواْ اُ۬لصَّٰلِحَٰتِ وَتَوَاصَوْاْ بِالْحَقِّ وَتَوَاصَوْاْ بِالصَّبْرِۖ",
+      "confidence": 0.879,
+      "has_missing_words": false,
+      "has_repeated_words": false,
+      "special_type": null,
+      "error": null,
+      "words": [
+        {
+          "word": "وَعَمِلُواْ",
+          "location": "103:3:4",
+          "start": 2.24,
+          "end": 3.04
+        },
+        {
+          "word": "اُ۬لصَّٰلِحَٰتِ",
+          "location": "103:3:5",
+          "start": 3.04,
+          "end": 3.92
+        },
+        {
+          "word": "وَتَوَاصَوْاْ",
+          "location": "103:3:6",
+          "start": 4.16,
+          "end": 5.52
+        },
+        {
+          "word": "بِالْحَقِّ",
+          "location": "103:3:7",
+          "start": 5.52,
+          "end": 6.24
+        },
+        {
+          "word": "وَتَوَاصَوْاْ",
+          "location": "103:3:8",
+          "start": 6.48,
+          "end": 7.76
+        },
+        {
+          "word": "بِالصَّبْرِۖ",
+          "location": "103:3:9",
+          "start": 7.76,
+          "end": 8.72
+        }
+      ]
+    }
+  ]
+}

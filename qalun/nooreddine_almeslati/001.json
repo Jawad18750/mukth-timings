@@ -1,0 +1,307 @@
+{
+  "reciter": "nooreddine_almeslati",
+  "surah": 1,
+  "detected_surah": 1,
+  "surah_mismatch": false,
+  "surahs_present": [
+    1
+  ],
+  "alternate_source": false,
+  "chunk_window": 10.5,
+  "segments": [
+    {
+      "segment": 1,
+      "time_from": 0.48,
+      "time_to": 3.04,
+      "ref_from": "",
+      "ref_to": "",
+      "matched_text": "بِسْمِ ٱللَّهِ ٱلرَّحْمَٰنِ ٱلرَّحِيم",
+      "confidence": 1.0,
+      "has_missing_words": false,
+      "has_repeated_words": false,
+      "special_type": "Basmala",
+      "error": null,
+      "words": [
+        {
+          "word": "بِسْمِ",
+          "location": "0:0:1",
+          "start": 0.0,
+          "end": 0.56
+        },
+        {
+          "word": "ٱللَّهِ",
+          "location": "0:0:2",
+          "start": 0.56,
+          "end": 0.88
+        },
+        {
+          "word": "ٱلرَّحْمَٰنِ",
+          "location": "0:0:3",
+          "start": 1.04,
+          "end": 2.08
+        },
+        {
+          "word": "ٱلرَّحِيم",
+          "location": "0:0:4",
+          "start": 2.08,
+          "end": 4.72
+        }
+      ]
+    },
+    {
+      "segment": 2,
+      "time_from": 5.68,
+      "time_to": 9.08,
+      "ref_from": "1:1:1",
+      "ref_to": "1:1:4",
+      "matched_text": "اِ۬لْحَمْدُ لِلهِ رَبِّ اِ۬لْعَٰلَمِينَ",
+      "confidence": 0.972,
+      "has_missing_words": false,
+      "has_repeated_words": false,
+      "special_type": null,
+      "error": null,
+      "words": [
+        {
+          "word": "اِ۬لْحَمْدُ",
+          "location": "1:1:1",
+          "start": 0.0,
+          "end": 0.64
+        },
+        {
+          "word": "لِلهِ",
+          "location": "1:1:2",
+          "start": 0.64,
+          "end": 0.88
+        },
+        {
+          "word": "رَبِّ",
+          "location": "1:1:3",
+          "start": 1.2,
+          "end": 1.6
+        },
+        {
+          "word": "اِ۬لْعَٰلَمِينَ",
+          "location": "1:1:4",
+          "start": 1.76,
+          "end": 2.96
+        }
+      ]
+    },
+    {
+      "segment": 3,
+      "time_from": 9.52,
+      "time_to": 11.12,
+      "ref_from": "1:2:1",
+      "ref_to": "1:2:2",
+      "matched_text": "اَ۬لرَّحْمَٰنِ اِ۬لرَّحِيمِ",
+      "confidence": 0.972,
+      "has_missing_words": false,
+      "has_repeated_words": false,
+      "special_type": null,
+      "error": null,
+      "words": [
+        {
+          "word": "اَ۬لرَّحْمَٰنِ",
+          "location": "1:2:1",
+          "start": 0.0,
+          "end": 0.4
+        },
+        {
+          "word": "اِ۬لرَّحِيمِ",
+          "location": "1:2:2",
+          "start": 0.88,
+          "end": 1.28
+        }
+      ]
+    },
+    {
+      "segment": 4,
+      "time_from": 11.898,
+      "time_to": 13.738,
+      "ref_from": "1:3:1",
+      "ref_to": "1:3:3",
+      "matched_text": "مَلِكِ يَوْمِ اِ۬لدِّينِۖ",
+      "confidence": 0.929,
+      "has_missing_words": false,
+      "has_repeated_words": false,
+      "special_type": null,
+      "error": null,
+      "words": [
+        {
+          "word": "مَلِكِ",
+          "location": "1:3:1",
+          "start": 0.08,
+          "end": 0.48
+        },
+        {
+          "word": "يَوْمِ",
+          "location": "1:3:2",
+          "start": 0.48,
+          "end": 0.8
+        },
+        {
+          "word": "اِ۬لدِّينِۖ",
+          "location": "1:3:3",
+          "start": 0.96,
+          "end": 1.36
+        }
+      ]
+    },
+    {
+      "segment": 5,
+      "time_from": 14.691,
+      "time_to": 18.451,
+      "ref_from": "1:4:1",
+      "ref_to": "1:4:4",
+      "matched_text": "إِيَّاكَ نَعْبُدُ وَإِيَّاكَ نَسْتَعِينُۖ",
+      "confidence": 0.978,
+      "has_missing_words": false,
+      "has_repeated_words": false,
+      "special_type": null,
+      "error": null,
+      "words": [
+        {
+          "word": "إِيَّاكَ",
+          "location": "1:4:1",
+          "start": 0.0002,
+          "end": 0.7202
+        },
+        {
+          "word": "نَعْبُدُ",
+          "location": "1:4:2",
+          "start": 0.7202,
+          "end": 1.4402
+        },
+        {
+          "word": "وَإِيَّاكَ",
+          "location": "1:4:3",
+          "start": 1.4402,
+          "end": 2.4002
+        },
+        {
+          "word": "نَسْتَعِينُۖ",
+          "location": "1:4:4",
+          "start": 2.4002,
+          "end": 3.5202
+        }
+      ]
+    },
+    {
+      "segment": 6,
+      "time_from": 18.691,
+      "time_to": 21.731,
+      "ref_from": "1:5:1",
+      "ref_to": "1:5:3",
+      "matched_text": "اُ۪هْدِنَا اَ۬لصِّرَٰطَ اَ۬لْمُسْتَقِيمَ",
+      "confidence": 0.978,
+      "has_missing_words": false,
+      "has_repeated_words": false,
+      "special_type": null,
+      "error": null,
+      "words": [
+        {
+          "word": "اُ۪هْدِنَا",
+          "location": "1:5:1",
+          "start": 0.0003,
+          "end": 0.8803
+        },
+        {
+          "word": "اَ۬لصِّرَٰطَ",
+          "location": "1:5:2",
+          "start": 0.8803,
+          "end": 1.7603
+        },
+        {
+          "word": "اَ۬لْمُسْتَقِيمَ",
+          "location": "1:5:3",
+          "start": 1.7603,
+          "end": 2.7203
+        }
+      ]
+    },
+    {
+      "segment": 7,
+      "time_from": 22.525,
+      "time_to": 25.085,
+      "ref_from": "1:6:1",
+      "ref_to": "1:6:4",
+      "matched_text": "صِرَٰطَ اَ۬لذِينَ أَنْعَمْتَ عَلَيْهِمْ",
+      "confidence": 0.909,
+      "has_missing_words": false,
+      "has_repeated_words": false,
+      "special_type": null,
+      "error": null,
+      "words": [
+        {
+          "word": "صِرَٰطَ",
+          "location": "1:6:1",
+          "start": 0.16,
+          "end": 0.88
+        },
+        {
+          "word": "اَ۬لذِينَ",
+          "location": "1:6:2",
+          "start": 0.88,
+          "end": 1.2
+        },
+        {
+          "word": "أَنْعَمْتَ",
+          "location": "1:6:3",
+          "start": 1.36,
+          "end": 2.4
+        },
+        {
+          "word": "عَلَيْهِمْ",
+          "location": "1:6:4",
+          "start": 2.4,
+          "end": 3.2
+        }
+      ]
+    },
+    {
+      "segment": 8,
+      "time_from": 26.412,
+      "time_to": 33.452,
+      "ref_from": "1:7:1",
+      "ref_to": "1:7:5",
+      "matched_text": "غَيْرِ اِ۬لْمَغْضُوبِ عَلَيْهِمْ وَلَا اَ۬لضَّآلِّينَۖ",
+      "confidence": 0.867,
+      "has_missing_words": false,
+      "has_repeated_words": false,
+      "special_type": null,
+      "error": null,
+      "words": [
+        {
+          "word": "غَيْرِ",
+          "location": "1:7:1",
+          "start": 0.0,
+          "end": 0.24
+        },
+        {
+          "word": "اِ۬لْمَغْضُوبِ",
+          "location": "1:7:2",
+          "start": 0.4,
+          "end": 1.52
+        },
+        {
+          "word": "عَلَيْهِمْ",
+          "location": "1:7:3",
+          "start": 1.52,
+          "end": 2.32
+        },
+        {
+          "word": "وَلَا",
+          "location": "1:7:4",
+          "start": 2.32,
+          "end": 2.64
+        },
+        {
+          "word": "اَ۬لضَّآلِّينَۖ",
+          "location": "1:7:5",
+          "start": 2.88,
+          "end": 7.2
+        }
+      ]
+    }
+  ]
+}

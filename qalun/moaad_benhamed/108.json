@@ -1,0 +1,106 @@
+{
+  "reciter": "moaad_benhamed",
+  "surah": 108,
+  "detected_surah": 108,
+  "surah_mismatch": false,
+  "surahs_present": [
+    108
+  ],
+  "alternate_source": false,
+  "chunk_window": 10.5,
+  "segments": [
+    {
+      "segment": 1,
+      "time_from": 0.0,
+      "time_to": 8.24,
+      "ref_from": "",
+      "ref_to": "",
+      "matched_text": "",
+      "confidence": 0.0,
+      "has_missing_words": false,
+      "has_repeated_words": false,
+      "special_type": null,
+      "error": "Low confidence (0%)",
+      "words": [],
+      "likely_opening": true
+    },
+    {
+      "segment": 2,
+      "time_from": 8.179,
+      "time_to": 11.539,
+      "ref_from": "108:1:3",
+      "ref_to": "108:2:3",
+      "matched_text": "اَ۬لْكَوْثَرَ فَصَلِّ لِرَبِّكَ وَانْحَرْۖ",
+      "confidence": 0.818,
+      "has_missing_words": false,
+      "has_repeated_words": false,
+      "special_type": null,
+      "error": null,
+      "words": [
+        {
+          "word": "اَ۬لْكَوْثَرَ",
+          "location": "108:1:3",
+          "start": 0.0,
+          "end": 0.56
+        },
+        {
+          "word": "فَصَلِّ",
+          "location": "108:2:1",
+          "start": 0.56,
+          "end": 1.2
+        },
+        {
+          "word": "لِرَبِّكَ",
+          "location": "108:2:2",
+          "start": 1.36,
+          "end": 2.56
+        },
+        {
+          "word": "وَانْحَرْۖ",
+          "location": "108:2:3",
+          "start": 2.64,
+          "end": 3.36
+        }
+      ]
+    },
+    {
+      "segment": 3,
+      "time_from": 13.032,
+      "time_to": 17.352,
+      "ref_from": "108:3:1",
+      "ref_to": "108:3:4",
+      "matched_text": "إِنَّ شَانِئَكَ هُوَ اَ۬لْأَبْتَرُۖ",
+      "confidence": 1.0,
+      "has_missing_words": false,
+      "has_repeated_words": false,
+      "special_type": null,
+      "error": null,
+      "words": [
+        {
+          "word": "إِنَّ",
+          "location": "108:3:1",
+          "start": 0.0,
+          "end": 0.24
+        },
+        {
+          "word": "شَانِئَكَ",
+          "location": "108:3:2",
+          "start": 1.2,
+          "end": 2.48
+        },
+        {
+          "word": "هُوَ",
+          "location": "108:3:3",
+          "start": 2.48,
+          "end": 2.8
+        },
+        {
+          "word": "اَ۬لْأَبْتَرُۖ",
+          "location": "108:3:4",
+          "start": 3.12,
+          "end": 4.24
+        }
+      ]
+    }
+  ]
+}
