@@ -1,0 +1,806 @@
+{
+  "reciter": "shaya_altamimi",
+  "surah": 82,
+  "detected_surah": 82,
+  "surah_mismatch": false,
+  "surahs_present": [
+    82
+  ],
+  "alternate_source": false,
+  "chunk_window": 10.5,
+  "segments": [
+    {
+      "segment": 1,
+      "time_from": 0.16,
+      "time_to": 9.52,
+      "ref_from": "82:1:1",
+      "ref_to": "82:2:3",
+      "matched_text": "إِذَا اَ۬لسَّمَآءُ اُ۪نفَطَرَتْ وَإِذَا اَ۬لْكَوَاكِبُ اُ۪نتَثَرَتْ",
+      "confidence": 1.0,
+      "has_missing_words": false,
+      "has_repeated_words": false,
+      "special_type": null,
+      "error": null,
+      "words": [
+        {
+          "word": "إِذَا",
+          "location": "82:1:1",
+          "start": 0.0,
+          "end": 0.24
+        },
+        {
+          "word": "اَ۬لسَّمَآءُ",
+          "location": "82:1:2",
+          "start": 0.4,
+          "end": 4.0
+        },
+        {
+          "word": "اُ۪نفَطَرَتْ",
+          "location": "82:1:3",
+          "start": 4.0,
+          "end": 5.92
+        },
+        {
+          "word": "وَإِذَا",
+          "location": "82:2:1",
+          "start": 5.92,
+          "end": 6.32
+        },
+        {
+          "word": "اَ۬لْكَوَاكِبُ",
+          "location": "82:2:2",
+          "start": 6.72,
+          "end": 8.0
+        },
+        {
+          "word": "اُ۪نتَثَرَتْ",
+          "location": "82:2:3",
+          "start": 8.0,
+          "end": 9.52
+        }
+      ]
+    },
+    {
+      "segment": 2,
+      "time_from": 10.307,
+      "time_to": 12.707,
+      "ref_from": "82:3:1",
+      "ref_to": "82:3:3",
+      "matched_text": "وَإِذَا اَ۬لْبِحَارُ فُجِّرَتْ",
+      "confidence": 1.0,
+      "has_missing_words": false,
+      "has_repeated_words": false,
+      "special_type": null,
+      "error": null,
+      "words": [
+        {
+          "word": "وَإِذَا",
+          "location": "82:3:1",
+          "start": 0.0,
+          "end": 0.24
+        },
+        {
+          "word": "اَ۬لْبِحَارُ",
+          "location": "82:3:2",
+          "start": 0.4,
+          "end": 1.36
+        },
+        {
+          "word": "فُجِّرَتْ",
+          "location": "82:3:3",
+          "start": 1.36,
+          "end": 2.56
+        }
+      ]
+    },
+    {
+      "segment": 3,
+      "time_from": 13.631,
+      "time_to": 16.831,
+      "ref_from": "82:4:1",
+      "ref_to": "82:4:3",
+      "matched_text": "وَإِذَا اَ۬لْقُبُورُ بُعْثِرَتْ",
+      "confidence": 1.0,
+      "has_missing_words": false,
+      "has_repeated_words": false,
+      "special_type": null,
+      "error": null,
+      "words": [
+        {
+          "word": "وَإِذَا",
+          "location": "82:4:1",
+          "start": 0.0001,
+          "end": 0.2401
+        },
+        {
+          "word": "اَ۬لْقُبُورُ",
+          "location": "82:4:2",
+          "start": 0.6401,
+          "end": 1.7601
+        },
+        {
+          "word": "بُعْثِرَتْ",
+          "location": "82:4:3",
+          "start": 2.0001,
+          "end": 3.0401
+        }
+      ]
+    },
+    {
+      "segment": 4,
+      "time_from": 16.991,
+      "time_to": 22.431,
+      "ref_from": "82:5:1",
+      "ref_to": "82:5:5",
+      "matched_text": "عَلِمَتْ نَفْسٞ مَّا قَدَّمَتْ وَأَخَّرَتْۖ",
+      "confidence": 1.0,
+      "has_missing_words": false,
+      "has_repeated_words": false,
+      "special_type": null,
+      "error": null,
+      "words": [
+        {
+          "word": "عَلِمَتْ",
+          "location": "82:5:1",
+          "start": 0.0001,
+          "end": 1.1201
+        },
+        {
+          "word": "نَفْسٞ",
+          "location": "82:5:2",
+          "start": 1.2801,
+          "end": 1.6801
+        },
+        {
+          "word": "مَّا",
+          "location": "82:5:3",
+          "start": 2.4001,
+          "end": 2.8001
+        },
+        {
+          "word": "قَدَّمَتْ",
+          "location": "82:5:4",
+          "start": 2.9601,
+          "end": 4.2401
+        },
+        {
+          "word": "وَأَخَّرَتْۖ",
+          "location": "82:5:5",
+          "start": 4.2401,
+          "end": 5.6001
+        }
+      ]
+    },
+    {
+      "segment": 5,
+      "time_from": 23.371,
+      "time_to": 30.411,
+      "ref_from": "82:6:1",
+      "ref_to": "82:6:6",
+      "matched_text": "يَٰأَيُّهَا اَ۬لْإِنسَٰنُ مَا غَرَّكَ بِرَبِّكَ اَ۬لْكَرِيمِ",
+      "confidence": 0.914,
+      "has_missing_words": false,
+      "has_repeated_words": false,
+      "special_type": null,
+      "error": null,
+      "words": [
+        {
+          "word": "يَٰأَيُّهَا",
+          "location": "82:6:1",
+          "start": 0.0,
+          "end": 1.36
+        },
+        {
+          "word": "اَ۬لْإِنسَٰنُ",
+          "location": "82:6:2",
+          "start": 1.44,
+          "end": 3.2
+        },
+        {
+          "word": "مَا",
+          "location": "82:6:3",
+          "start": 3.2,
+          "end": 3.6
+        },
+        {
+          "word": "غَرَّكَ",
+          "location": "82:6:4",
+          "start": 3.68,
+          "end": 4.8
+        },
+        {
+          "word": "بِرَبِّكَ",
+          "location": "82:6:5",
+          "start": 4.96,
+          "end": 6.0
+        },
+        {
+          "word": "اَ۬لْكَرِيمِ",
+          "location": "82:6:6",
+          "start": 6.0,
+          "end": 6.4
+        }
+      ]
+    },
+    {
+      "segment": 6,
+      "time_from": 32.101,
+      "time_to": 36.501,
+      "ref_from": "82:7:1",
+      "ref_to": "82:7:4",
+      "matched_text": "اِ۬لذِے خَلَقَكَ فَسَوَّىٰكَ فَعَدَّلَكَ",
+      "confidence": 0.909,
+      "has_missing_words": false,
+      "has_repeated_words": false,
+      "special_type": null,
+      "error": null,
+      "words": [
+        {
+          "word": "اِ۬لذِے",
+          "location": "82:7:1",
+          "start": 0.0,
+          "end": 0.48
+        },
+        {
+          "word": "خَلَقَكَ",
+          "location": "82:7:2",
+          "start": 0.56,
+          "end": 1.44
+        },
+        {
+          "word": "فَسَوَّىٰكَ",
+          "location": "82:7:3",
+          "start": 1.84,
+          "end": 3.04
+        },
+        {
+          "word": "فَعَدَّلَكَ",
+          "location": "82:7:4",
+          "start": 3.04,
+          "end": 4.56
+        }
+      ]
+    },
+    {
+      "segment": 7,
+      "time_from": 37.382,
+      "time_to": 44.342,
+      "ref_from": "82:8:1",
+      "ref_to": "82:8:6",
+      "matched_text": "فِے أَيِّ صُورَةٖ مَّا شَآءَ رَكَّبَكَۖ",
+      "confidence": 0.957,
+      "has_missing_words": false,
+      "has_repeated_words": false,
+      "special_type": null,
+      "error": null,
+      "words": [
+        {
+          "word": "فِے",
+          "location": "82:8:1",
+          "start": 0.0,
+          "end": 0.24
+        },
+        {
+          "word": "أَيِّ",
+          "location": "82:8:2",
+          "start": 0.24,
+          "end": 0.56
+        },
+        {
+          "word": "صُورَةٖ",
+          "location": "82:8:3",
+          "start": 1.28,
+          "end": 2.0
+        },
+        {
+          "word": "مَّا",
+          "location": "82:8:4",
+          "start": 2.64,
+          "end": 3.04
+        },
+        {
+          "word": "شَآءَ",
+          "location": "82:8:5",
+          "start": 3.2,
+          "end": 5.68
+        },
+        {
+          "word": "رَكَّبَكَۖ",
+          "location": "82:8:6",
+          "start": 5.76,
+          "end": 7.12
+        }
+      ]
+    },
+    {
+      "segment": 8,
+      "time_from": 45.269,
+      "time_to": 48.469,
+      "ref_from": "82:9:1",
+      "ref_to": "82:9:4",
+      "matched_text": "كَلَّا بَلْ تُكَذِّبُونَ بِالدِّينِ",
+      "confidence": 0.909,
+      "has_missing_words": false,
+      "has_repeated_words": false,
+      "special_type": null,
+      "error": null,
+      "words": [
+        {
+          "word": "كَلَّا",
+          "location": "82:9:1",
+          "start": 0.0,
+          "end": 0.72
+        },
+        {
+          "word": "بَلْ",
+          "location": "82:9:2",
+          "start": 0.72,
+          "end": 1.04
+        },
+        {
+          "word": "تُكَذِّبُونَ",
+          "location": "82:9:3",
+          "start": 1.36,
+          "end": 2.48
+        },
+        {
+          "word": "بِالدِّينِ",
+          "location": "82:9:4",
+          "start": 2.48,
+          "end": 3.2
+        }
+      ]
+    },
+    {
+      "segment": 9,
+      "time_from": 49.469,
+      "time_to": 54.909,
+      "ref_from": "82:10:1",
+      "ref_to": "82:11:1",
+      "matched_text": "وَإِنَّ عَلَيْكُمْ لَحَٰفِظِينَ كِرَاماٗ",
+      "confidence": 0.9,
+      "has_missing_words": false,
+      "has_repeated_words": false,
+      "special_type": null,
+      "error": null,
+      "words": [
+        {
+          "word": "وَإِنَّ",
+          "location": "82:10:1",
+          "start": 0.0001,
+          "end": 0.4001
+        },
+        {
+          "word": "عَلَيْكُمْ",
+          "location": "82:10:2",
+          "start": 1.2801,
+          "end": 1.6801
+        },
+        {
+          "word": "لَحَٰفِظِينَ",
+          "location": "82:10:3",
+          "start": 2.4801,
+          "end": 4.2401
+        },
+        {
+          "word": "كِرَاماٗ",
+          "location": "82:11:1",
+          "start": 4.2401,
+          "end": 5.6001
+        }
+      ]
+    },
+    {
+      "segment": 10,
+      "time_from": 56.117,
+      "time_to": 57.197,
+      "ref_from": "82:11:2",
+      "ref_to": "82:11:2",
+      "matched_text": "كَٰتِبِينَ",
+      "confidence": 0.87,
+      "has_missing_words": false,
+      "has_repeated_words": false,
+      "special_type": null,
+      "error": null,
+      "words": [
+        {
+          "word": "كَٰتِبِينَ",
+          "location": "82:11:2",
+          "start": 0.1599,
+          "end": 1.04
+        }
+      ]
+    },
+    {
+      "segment": 11,
+      "time_from": 57.237,
+      "time_to": 59.797,
+      "ref_from": "82:12:1",
+      "ref_to": "82:12:3",
+      "matched_text": "يَعْلَمُونَ مَا تَفْعَلُونَۖ",
+      "confidence": 0.87,
+      "has_missing_words": true,
+      "has_repeated_words": false,
+      "special_type": null,
+      "error": null,
+      "words": [
+        {
+          "word": "يَعْلَمُونَ",
+          "location": "82:12:1",
+          "start": 0.0,
+          "end": 1.3599
+        },
+        {
+          "word": "مَا",
+          "location": "82:12:2",
+          "start": 1.4399,
+          "end": 1.8399
+        },
+        {
+          "word": "تَفْعَلُونَۖ",
+          "location": "82:12:3",
+          "start": 1.8399,
+          "end": 2.6399
+        }
+      ]
+    },
+    {
+      "segment": 12,
+      "time_from": 60.368,
+      "time_to": 60.768,
+      "ref_from": "",
+      "ref_to": "",
+      "matched_text": "",
+      "confidence": 0.0,
+      "has_missing_words": false,
+      "has_repeated_words": false,
+      "special_type": null,
+      "error": "Low confidence (0%)",
+      "words": []
+    },
+    {
+      "segment": 13,
+      "time_from": 62.413,
+      "time_to": 66.253,
+      "ref_from": "82:13:1",
+      "ref_to": "82:13:4",
+      "matched_text": "إِنَّ اَ۬لْأَبْرَارَ لَفِے نَعِيمٖۖ",
+      "confidence": 0.95,
+      "has_missing_words": true,
+      "has_repeated_words": false,
+      "special_type": null,
+      "error": null,
+      "words": [
+        {
+          "word": "إِنَّ",
+          "location": "82:13:1",
+          "start": 0.0,
+          "end": 0.24
+        },
+        {
+          "word": "اَ۬لْأَبْرَارَ",
+          "location": "82:13:2",
+          "start": 1.04,
+          "end": 2.32
+        },
+        {
+          "word": "لَفِے",
+          "location": "82:13:3",
+          "start": 2.56,
+          "end": 2.96
+        },
+        {
+          "word": "نَعِيمٖۖ",
+          "location": "82:13:4",
+          "start": 2.96,
+          "end": 4.0
+        }
+      ]
+    },
+    {
+      "segment": 14,
+      "time_from": 67.665,
+      "time_to": 72.225,
+      "ref_from": "82:14:1",
+      "ref_to": "82:14:4",
+      "matched_text": "وَإِنَّ اَ۬لْفُجَّارَ لَفِے جَحِيمٖ",
+      "confidence": 0.9,
+      "has_missing_words": true,
+      "has_repeated_words": false,
+      "special_type": null,
+      "error": null,
+      "words": [
+        {
+          "word": "وَإِنَّ",
+          "location": "82:14:1",
+          "start": 0.0,
+          "end": 0.24
+        },
+        {
+          "word": "اَ۬لْفُجَّارَ",
+          "location": "82:14:2",
+          "start": 1.68,
+          "end": 2.56
+        },
+        {
+          "word": "لَفِے",
+          "location": "82:14:3",
+          "start": 3.2,
+          "end": 3.6
+        },
+        {
+          "word": "جَحِيمٖ",
+          "location": "82:14:4",
+          "start": 3.68,
+          "end": 4.72
+        }
+      ]
+    },
+    {
+      "segment": 15,
+      "time_from": 73.953,
+      "time_to": 76.873,
+      "ref_from": "82:15:1",
+      "ref_to": "82:15:3",
+      "matched_text": "يَصْلَوْنَهَا يَوْمَ اَ۬لدِّينِ",
+      "confidence": 0.895,
+      "has_missing_words": true,
+      "has_repeated_words": false,
+      "special_type": null,
+      "error": null,
+      "words": [
+        {
+          "word": "يَصْلَوْنَهَا",
+          "location": "82:15:1",
+          "start": 0.0,
+          "end": 1.3598
+        },
+        {
+          "word": "يَوْمَ",
+          "location": "82:15:2",
+          "start": 1.4398,
+          "end": 1.8398
+        },
+        {
+          "word": "اَ۬لدِّينِ",
+          "location": "82:15:3",
+          "start": 2.2398,
+          "end": 2.6398
+        }
+      ]
+    },
+    {
+      "segment": 16,
+      "time_from": 77.153,
+      "time_to": 82.273,
+      "ref_from": "82:16:1",
+      "ref_to": "82:16:4",
+      "matched_text": "وَمَا هُمْ عَنْهَا بِغَآئِبِينَۖ",
+      "confidence": 0.895,
+      "has_missing_words": true,
+      "has_repeated_words": false,
+      "special_type": null,
+      "error": null,
+      "words": [
+        {
+          "word": "وَمَا",
+          "location": "82:16:1",
+          "start": 0.0,
+          "end": 0.3998
+        },
+        {
+          "word": "هُمْ",
+          "location": "82:16:2",
+          "start": 0.8798,
+          "end": 1.2798
+        },
+        {
+          "word": "عَنْهَا",
+          "location": "82:16:3",
+          "start": 1.2798,
+          "end": 2.1598
+        },
+        {
+          "word": "بِغَآئِبِينَۖ",
+          "location": "82:16:4",
+          "start": 2.2398,
+          "end": 5.1998
+        }
+      ]
+    },
+    {
+      "segment": 17,
+      "time_from": 82.37,
+      "time_to": 83.25,
+      "ref_from": "82:11:2",
+      "ref_to": "82:11:2",
+      "matched_text": "",
+      "confidence": 0.667,
+      "has_missing_words": false,
+      "has_repeated_words": false,
+      "special_type": null,
+      "error": null,
+      "words": []
+    },
+    {
+      "segment": 18,
+      "time_from": 84.448,
+      "time_to": 88.448,
+      "ref_from": "82:17:1",
+      "ref_to": "82:17:5",
+      "matched_text": "وَمَا أَدْرَىٰكَ مَا يَوْمُ اُ۬لدِّينِ",
+      "confidence": 0.957,
+      "has_missing_words": false,
+      "has_repeated_words": false,
+      "special_type": null,
+      "error": null,
+      "words": [
+        {
+          "word": "وَمَا",
+          "location": "82:17:1",
+          "start": 0.0,
+          "end": 0.24
+        },
+        {
+          "word": "أَدْرَىٰكَ",
+          "location": "82:17:2",
+          "start": 0.56,
+          "end": 1.84
+        },
+        {
+          "word": "مَا",
+          "location": "82:17:3",
+          "start": 1.84,
+          "end": 2.16
+        },
+        {
+          "word": "يَوْمُ",
+          "location": "82:17:4",
+          "start": 2.24,
+          "end": 2.64
+        },
+        {
+          "word": "اُ۬لدِّينِ",
+          "location": "82:17:5",
+          "start": 3.2,
+          "end": 3.6
+        }
+      ]
+    },
+    {
+      "segment": 19,
+      "time_from": 90.282,
+      "time_to": 95.162,
+      "ref_from": "82:18:1",
+      "ref_to": "82:18:6",
+      "matched_text": "ثُمَّ مَا أَدْرَىٰكَ مَا يَوْمُ اُ۬لدِّينِۖ",
+      "confidence": 0.92,
+      "has_missing_words": false,
+      "has_repeated_words": false,
+      "special_type": null,
+      "error": null,
+      "words": [
+        {
+          "word": "ثُمَّ",
+          "location": "82:18:1",
+          "start": 0.0,
+          "end": 0.24
+        },
+        {
+          "word": "مَا",
+          "location": "82:18:2",
+          "start": 0.96,
+          "end": 1.36
+        },
+        {
+          "word": "أَدْرَىٰكَ",
+          "location": "82:18:3",
+          "start": 1.44,
+          "end": 2.8
+        },
+        {
+          "word": "مَا",
+          "location": "82:18:4",
+          "start": 2.8,
+          "end": 3.12
+        },
+        {
+          "word": "يَوْمُ",
+          "location": "82:18:5",
+          "start": 3.2,
+          "end": 3.6
+        },
+        {
+          "word": "اُ۬لدِّينِۖ",
+          "location": "82:18:6",
+          "start": 4.16,
+          "end": 4.56
+        }
+      ]
+    },
+    {
+      "segment": 20,
+      "time_from": 96.317,
+      "time_to": 103.357,
+      "ref_from": "82:19:1",
+      "ref_to": "82:19:6",
+      "matched_text": "يَوْمَ لَا تَمْلِكُ نَفْسٞ لِّنَفْسٖ شَيْـٔاٗۖ",
+      "confidence": 0.962,
+      "has_missing_words": false,
+      "has_repeated_words": false,
+      "special_type": null,
+      "error": null,
+      "words": [
+        {
+          "word": "يَوْمَ",
+          "location": "82:19:1",
+          "start": 0.0,
+          "end": 0.32
+        },
+        {
+          "word": "لَا",
+          "location": "82:19:2",
+          "start": 0.56,
+          "end": 0.96
+        },
+        {
+          "word": "تَمْلِكُ",
+          "location": "82:19:3",
+          "start": 0.96,
+          "end": 1.68
+        },
+        {
+          "word": "نَفْسٞ",
+          "location": "82:19:4",
+          "start": 2.16,
+          "end": 2.56
+        },
+        {
+          "word": "لِّنَفْسٖ",
+          "location": "82:19:5",
+          "start": 2.88,
+          "end": 3.76
+        },
+        {
+          "word": "شَيْـٔاٗۖ",
+          "location": "82:19:6",
+          "start": 6.0,
+          "end": 7.2
+        }
+      ]
+    },
+    {
+      "segment": 21,
+      "time_from": 105.243,
+      "time_to": 108.363,
+      "ref_from": "82:19:7",
+      "ref_to": "82:19:9",
+      "matched_text": "وَالْأَمْرُ يَوْمَئِذٖ لِّلهِۖ",
+      "confidence": 0.941,
+      "has_missing_words": false,
+      "has_repeated_words": false,
+      "special_type": null,
+      "error": null,
+      "words": [
+        {
+          "word": "وَالْأَمْرُ",
+          "location": "82:19:7",
+          "start": 0.0,
+          "end": 0.96
+        },
+        {
+          "word": "يَوْمَئِذٖ",
+          "location": "82:19:8",
+          "start": 1.12,
+          "end": 2.48
+        },
+        {
+          "word": "لِّلهِۖ",
+          "location": "82:19:9",
+          "start": 2.64,
+          "end": 3.04
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,184 @@
+{
+  "reciter": "arafat_aljumaii",
+  "surah": 106,
+  "detected_surah": 106,
+  "surah_mismatch": false,
+  "surahs_present": [
+    106
+  ],
+  "alternate_source": false,
+  "chunk_window": 10.5,
+  "segments": [
+    {
+      "segment": 1,
+      "time_from": 0.16,
+      "time_to": 2.32,
+      "ref_from": "",
+      "ref_to": "",
+      "matched_text": "بِسْمِ ٱللَّهِ ٱلرَّحْمَٰنِ ٱلرَّحِيم",
+      "confidence": 0.885,
+      "has_missing_words": false,
+      "has_repeated_words": false,
+      "special_type": "Basmala",
+      "error": null,
+      "words": [
+        {
+          "word": "بِسْمِ",
+          "location": "0:0:1",
+          "start": 0.0,
+          "end": 0.48
+        },
+        {
+          "word": "ٱللَّهِ",
+          "location": "0:0:2",
+          "start": 0.48,
+          "end": 0.72
+        },
+        {
+          "word": "ٱلرَّحْمَٰنِ",
+          "location": "0:0:3",
+          "start": 0.72,
+          "end": 1.44
+        },
+        {
+          "word": "ٱلرَّحِيم",
+          "location": "0:0:4",
+          "start": 1.44,
+          "end": 2.16
+        }
+      ]
+    },
+    {
+      "segment": 2,
+      "time_from": 2.48,
+      "time_to": 7.36,
+      "ref_from": "106:1:1",
+      "ref_to": "106:2:4",
+      "matched_text": "لِإِيلَٰفِ قُرَيْشٍ إِيلَٰفِهِمْ رِحْلَةَ اَ۬لشِّتَآءِ وَالصَّيْفِۖ",
+      "confidence": 0.885,
+      "has_missing_words": false,
+      "has_repeated_words": false,
+      "special_type": null,
+      "error": null,
+      "words": [
+        {
+          "word": "لِإِيلَٰفِ",
+          "location": "106:1:1",
+          "start": 0.0,
+          "end": 0.8
+        },
+        {
+          "word": "قُرَيْشٍ",
+          "location": "106:1:2",
+          "start": 0.8,
+          "end": 1.52
+        },
+        {
+          "word": "إِيلَٰفِهِمْ",
+          "location": "106:2:1",
+          "start": 1.52,
+          "end": 2.48
+        },
+        {
+          "word": "رِحْلَةَ",
+          "location": "106:2:2",
+          "start": 2.48,
+          "end": 3.12
+        },
+        {
+          "word": "اَ۬لشِّتَآءِ",
+          "location": "106:2:3",
+          "start": 3.12,
+          "end": 4.0
+        },
+        {
+          "word": "وَالصَّيْفِۖ",
+          "location": "106:2:4",
+          "start": 4.0,
+          "end": 4.88
+        }
+      ]
+    },
+    {
+      "segment": 3,
+      "time_from": 7.58,
+      "time_to": 14.22,
+      "ref_from": "106:3:1",
+      "ref_to": "106:5:3",
+      "matched_text": "فَلْيَعْبُدُواْ رَبَّ هَٰذَا اَ۬لْبَيْتِ اِ۬لذِے أَطْعَمَهُم مِّن جُوعٖ وَءَامَنَهُم مِّنْ خَوْفِۢۖ",
+      "confidence": 0.946,
+      "has_missing_words": false,
+      "has_repeated_words": false,
+      "special_type": null,
+      "error": null,
+      "words": [
+        {
+          "word": "فَلْيَعْبُدُواْ",
+          "location": "106:3:1",
+          "start": 0.0,
+          "end": 0.96
+        },
+        {
+          "word": "رَبَّ",
+          "location": "106:3:2",
+          "start": 0.96,
+          "end": 1.2
+        },
+        {
+          "word": "هَٰذَا",
+          "location": "106:3:3",
+          "start": 1.2,
+          "end": 1.44
+        },
+        {
+          "word": "اَ۬لْبَيْتِ",
+          "location": "106:3:4",
+          "start": 1.44,
+          "end": 1.6
+        },
+        {
+          "word": "اِ۬لذِے",
+          "location": "106:4:1",
+          "start": 1.6,
+          "end": 2.08
+        },
+        {
+          "word": "أَطْعَمَهُم",
+          "location": "106:4:2",
+          "start": 2.4,
+          "end": 3.44
+        },
+        {
+          "word": "مِّن",
+          "location": "106:4:3",
+          "start": 3.44,
+          "end": 3.76
+        },
+        {
+          "word": "جُوعٖ",
+          "location": "106:4:4",
+          "start": 3.76,
+          "end": 4.48
+        },
+        {
+          "word": "وَءَامَنَهُم",
+          "location": "106:5:1",
+          "start": 4.48,
+          "end": 5.6
+        },
+        {
+          "word": "مِّنْ",
+          "location": "106:5:2",
+          "start": 5.6,
+          "end": 5.92
+        },
+        {
+          "word": "خَوْفِۢۖ",
+          "location": "106:5:3",
+          "start": 5.92,
+          "end": 6.72
+        }
+      ]
+    }
+  ]
+}
