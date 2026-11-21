@@ -1,0 +1,216 @@
+{
+  "reciter": "mohamed_alhudairi",
+  "surah": 110,
+  "detected_surah": 110,
+  "surah_mismatch": false,
+  "surahs_present": [
+    110
+  ],
+  "alternate_source": false,
+  "chunk_window": 10.5,
+  "segments": [
+    {
+      "segment": 1,
+      "time_from": 0.0,
+      "time_to": 0.08,
+      "ref_from": "",
+      "ref_to": "",
+      "matched_text": "",
+      "confidence": 0.0,
+      "has_missing_words": false,
+      "has_repeated_words": false,
+      "special_type": null,
+      "error": "Low confidence (0%)",
+      "words": [],
+      "likely_opening": true
+    },
+    {
+      "segment": 2,
+      "time_from": 1.4,
+      "time_to": 6.44,
+      "ref_from": "",
+      "ref_to": "",
+      "matched_text": "",
+      "confidence": 0.0,
+      "has_missing_words": false,
+      "has_repeated_words": false,
+      "special_type": null,
+      "error": "Low confidence (0%)",
+      "words": []
+    },
+    {
+      "segment": 3,
+      "time_from": 7.402,
+      "time_to": 19.947,
+      "ref_from": "110:1:1",
+      "ref_to": "110:2:7",
+      "matched_text": "إِذَا جَآءَ نَصْرُ اُ۬للَّهِ وَالْفَتْحُ وَرَأَيْتَ اَ۬لنَّاسَ يَدْخُلُونَ فِے دِينِ اِ۬للَّهِ أَفْوَاجاٗ",
+      "confidence": 0.822,
+      "has_missing_words": false,
+      "has_repeated_words": false,
+      "special_type": null,
+      "error": null,
+      "words": [
+        {
+          "word": "إِذَا",
+          "location": "110:1:1",
+          "start": 0.0,
+          "end": 0.24
+        },
+        {
+          "word": "جَآءَ",
+          "location": "110:1:2",
+          "start": 0.56,
+          "end": 2.64
+        },
+        {
+          "word": "نَصْرُ",
+          "location": "110:1:3",
+          "start": 2.64,
+          "end": 3.28
+        },
+        {
+          "word": "اُ۬للَّهِ",
+          "location": "110:1:4",
+          "start": 3.36,
+          "end": 3.76
+        },
+        {
+          "word": "وَالْفَتْحُ",
+          "location": "110:1:5",
+          "start": 3.84,
+          "end": 5.4024
+        },
+        {
+          "word": "وَرَأَيْتَ",
+          "location": "110:2:1",
+          "start": 5.4824,
+          "end": 6.4424
+        },
+        {
+          "word": "اَ۬لنَّاسَ",
+          "location": "110:2:2",
+          "start": 6.6824,
+          "end": 7.0824
+        },
+        {
+          "word": "يَدْخُلُونَ",
+          "location": "110:2:3",
+          "start": 7.7224,
+          "end": 8.8424
+        },
+        {
+          "word": "فِے",
+          "location": "110:2:4",
+          "start": 8.8424,
+          "end": 9.2424
+        },
+        {
+          "word": "دِينِ",
+          "location": "110:2:5",
+          "start": 9.2424,
+          "end": 9.8824
+        },
+        {
+          "word": "اِ۬للَّهِ",
+          "location": "110:2:6",
+          "start": 9.8824,
+          "end": 10.2024
+        },
+        {
+          "word": "أَفْوَاجاٗ",
+          "location": "110:2:7",
+          "start": 10.2824,
+          "end": 11.0824
+        }
+      ]
+    },
+    {
+      "segment": 4,
+      "time_from": 20.147,
+      "time_to": 20.947,
+      "ref_from": "110:3:1",
+      "ref_to": "110:3:1",
+      "matched_text": "فَسَبِّحْ",
+      "confidence": 0.917,
+      "has_missing_words": false,
+      "has_repeated_words": false,
+      "special_type": null,
+      "error": null,
+      "words": [
+        {
+          "word": "فَسَبِّحْ",
+          "location": "110:3:1",
+          "start": 0.0,
+          "end": 0.8797
+        }
+      ]
+    },
+    {
+      "segment": 5,
+      "time_from": 21.27,
+      "time_to": 24.39,
+      "ref_from": "110:3:2",
+      "ref_to": "110:3:4",
+      "matched_text": "بِحَمْدِ رَبِّكَ وَاسْتَغْفِرْهُۖ",
+      "confidence": 0.8,
+      "has_missing_words": false,
+      "has_repeated_words": false,
+      "special_type": null,
+      "error": null,
+      "words": [
+        {
+          "word": "بِحَمْدِ",
+          "location": "110:3:2",
+          "start": 0.24,
+          "end": 0.88
+        },
+        {
+          "word": "رَبِّكَ",
+          "location": "110:3:3",
+          "start": 0.88,
+          "end": 1.68
+        },
+        {
+          "word": "وَاسْتَغْفِرْهُۖ",
+          "location": "110:3:4",
+          "start": 1.68,
+          "end": 3.28
+        }
+      ]
+    },
+    {
+      "segment": 6,
+      "time_from": 26.061,
+      "time_to": 33.261,
+      "ref_from": "110:3:5",
+      "ref_to": "110:3:7",
+      "matched_text": "إِنَّهُۥ كَانَ تَوَّاباَۢۖ",
+      "confidence": 1.0,
+      "has_missing_words": false,
+      "has_repeated_words": false,
+      "special_type": null,
+      "error": null,
+      "words": [
+        {
+          "word": "إِنَّهُۥ",
+          "location": "110:3:5",
+          "start": 0.0,
+          "end": 2.0
+        },
+        {
+          "word": "كَانَ",
+          "location": "110:3:6",
+          "start": 2.16,
+          "end": 2.56
+        },
+        {
+          "word": "تَوَّاباَۢۖ",
+          "location": "110:3:7",
+          "start": 2.8,
+          "end": 4.08
+        }
+      ]
+    }
+  ]
+}
