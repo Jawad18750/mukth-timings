@@ -1,0 +1,208 @@
+{
+  "reciter": "saber_abdulhakam",
+  "surah": 103,
+  "detected_surah": 103,
+  "surah_mismatch": false,
+  "surahs_present": [
+    103
+  ],
+  "alternate_source": false,
+  "chunk_window": 10.5,
+  "segments": [
+    {
+      "segment": 1,
+      "time_from": 0.56,
+      "time_to": 4.24,
+      "ref_from": "",
+      "ref_to": "",
+      "matched_text": "أَعُوذُ بِٱللَّهِ مِنَ الشَّيْطَانِ الرَّجِيم",
+      "confidence": 0.897,
+      "has_missing_words": false,
+      "has_repeated_words": false,
+      "special_type": "Isti'adha",
+      "error": null,
+      "words": [
+        {
+          "word": "أَعُوذُ",
+          "location": "0:0:1",
+          "start": 0.0,
+          "end": 0.64
+        },
+        {
+          "word": "بِٱللَّهِ",
+          "location": "0:0:2",
+          "start": 0.64,
+          "end": 1.36
+        },
+        {
+          "word": "مِنَ",
+          "location": "0:0:3",
+          "start": 1.36,
+          "end": 2.24
+        },
+        {
+          "word": "الشَّيْطَانِ",
+          "location": "0:0:4",
+          "start": 1.68,
+          "end": 5.76
+        },
+        {
+          "word": "الرَّجِيم",
+          "location": "0:0:5",
+          "start": 2.88,
+          "end": 3.84
+        }
+      ]
+    },
+    {
+      "segment": 2,
+      "time_from": 5.86,
+      "time_to": 11.46,
+      "ref_from": "",
+      "ref_to": "",
+      "matched_text": "بِسْمِ ٱللَّهِ ٱلرَّحْمَٰنِ ٱلرَّحِيم",
+      "confidence": 0.793,
+      "has_missing_words": false,
+      "has_repeated_words": false,
+      "special_type": "Basmala",
+      "error": null,
+      "words": []
+    },
+    {
+      "segment": 3,
+      "time_from": 13.113,
+      "time_to": 17.673,
+      "ref_from": "103:2:1",
+      "ref_to": "103:2:4",
+      "matched_text": "إِنَّ اَ۬لْإِنسَٰنَ لَفِے خُسْرٍ",
+      "confidence": 0.895,
+      "has_missing_words": false,
+      "has_repeated_words": false,
+      "special_type": null,
+      "error": null,
+      "words": [
+        {
+          "word": "إِنَّ",
+          "location": "103:2:1",
+          "start": 0.0,
+          "end": 0.24
+        },
+        {
+          "word": "اَ۬لْإِنسَٰنَ",
+          "location": "103:2:2",
+          "start": 1.12,
+          "end": 3.04
+        },
+        {
+          "word": "لَفِے",
+          "location": "103:2:3",
+          "start": 3.2,
+          "end": 3.6
+        },
+        {
+          "word": "خُسْرٍ",
+          "location": "103:2:4",
+          "start": 3.6,
+          "end": 4.24
+        }
+      ]
+    },
+    {
+      "segment": 4,
+      "time_from": 18.863,
+      "time_to": 28.223,
+      "ref_from": "103:3:1",
+      "ref_to": "103:3:9",
+      "matched_text": "إِلَّا اَ۬لذِينَ ءَامَنُواْ وَعَمِلُواْ اُ۬لصَّٰلِحَٰتِ وَتَوَاصَوْاْ بِالْحَقِّ وَتَوَاصَوْاْ بِالصَّبْرِۖ",
+      "confidence": 0.951,
+      "has_missing_words": false,
+      "has_repeated_words": false,
+      "special_type": null,
+      "error": null,
+      "words": [
+        {
+          "word": "إِلَّا",
+          "location": "103:3:1",
+          "start": 0.0,
+          "end": 0.24
+        },
+        {
+          "word": "اَ۬لذِينَ",
+          "location": "103:3:2",
+          "start": 0.4,
+          "end": 0.8
+        },
+        {
+          "word": "ءَامَنُواْ",
+          "location": "103:3:3",
+          "start": 1.2,
+          "end": 2.24
+        },
+        {
+          "word": "وَعَمِلُواْ",
+          "location": "103:3:4",
+          "start": 2.4,
+          "end": 3.28
+        },
+        {
+          "word": "اُ۬لصَّٰلِحَٰتِ",
+          "location": "103:3:5",
+          "start": 3.28,
+          "end": 4.24
+        },
+        {
+          "word": "وَتَوَاصَوْاْ",
+          "location": "103:3:6",
+          "start": 4.48,
+          "end": 5.92
+        },
+        {
+          "word": "بِالْحَقِّ",
+          "location": "103:3:7",
+          "start": 5.92,
+          "end": 6.72
+        },
+        {
+          "word": "وَتَوَاصَوْاْ",
+          "location": "103:3:8",
+          "start": 6.96,
+          "end": 8.32
+        },
+        {
+          "word": "بِالصَّبْرِۖ",
+          "location": "103:3:9",
+          "start": 8.32,
+          "end": 9.44
+        }
+      ]
+    },
+    {
+      "segment": 5,
+      "time_from": 28.699,
+      "time_to": 28.779,
+      "ref_from": "",
+      "ref_to": "",
+      "matched_text": "",
+      "confidence": 0.0,
+      "has_missing_words": false,
+      "has_repeated_words": false,
+      "special_type": null,
+      "error": "Low confidence (0%)",
+      "words": []
+    },
+    {
+      "segment": 6,
+      "time_from": 29.878,
+      "time_to": 29.958,
+      "ref_from": "",
+      "ref_to": "",
+      "matched_text": "",
+      "confidence": 0.0,
+      "has_missing_words": false,
+      "has_repeated_words": false,
+      "special_type": null,
+      "error": "Low confidence (0%)",
+      "words": []
+    }
+  ]
+}

@@ -1,0 +1,296 @@
+{
+  "reciter": "saber_abdulhakam",
+  "surah": 114,
+  "detected_surah": 114,
+  "surah_mismatch": false,
+  "surahs_present": [
+    114
+  ],
+  "alternate_source": false,
+  "chunk_window": 10.5,
+  "segments": [
+    {
+      "segment": 1,
+      "time_from": 0.48,
+      "time_to": 4.16,
+      "ref_from": "",
+      "ref_to": "",
+      "matched_text": "أَعُوذُ بِٱللَّهِ مِنَ الشَّيْطَانِ الرَّجِيم",
+      "confidence": 1.0,
+      "has_missing_words": false,
+      "has_repeated_words": false,
+      "special_type": "Isti'adha",
+      "error": null,
+      "words": [
+        {
+          "word": "أَعُوذُ",
+          "location": "0:0:1",
+          "start": 0.0,
+          "end": 0.72
+        },
+        {
+          "word": "بِٱللَّهِ",
+          "location": "0:0:2",
+          "start": 0.72,
+          "end": 1.36
+        },
+        {
+          "word": "مِنَ",
+          "location": "0:0:3",
+          "start": 1.36,
+          "end": 1.84
+        },
+        {
+          "word": "الشَّيْطَانِ",
+          "location": "0:0:4",
+          "start": 1.68,
+          "end": 2.96
+        },
+        {
+          "word": "الرَّجِيم",
+          "location": "0:0:5",
+          "start": 2.8,
+          "end": 3.76
+        }
+      ]
+    },
+    {
+      "segment": 2,
+      "time_from": 5.36,
+      "time_to": 8.32,
+      "ref_from": "",
+      "ref_to": "",
+      "matched_text": "بِسْمِ ٱللَّهِ ٱلرَّحْمَٰنِ ٱلرَّحِيم",
+      "confidence": 0.951,
+      "has_missing_words": false,
+      "has_repeated_words": false,
+      "special_type": "Basmala",
+      "error": null,
+      "words": []
+    },
+    {
+      "segment": 3,
+      "time_from": 9.36,
+      "time_to": 12.24,
+      "ref_from": "114:1:1",
+      "ref_to": "114:1:4",
+      "matched_text": "قُلْ أَعُوذُ بِرَبِّ اِ۬لنَّاسِ",
+      "confidence": 0.951,
+      "has_missing_words": false,
+      "has_repeated_words": false,
+      "special_type": null,
+      "error": null,
+      "words": [
+        {
+          "word": "قُلْ",
+          "location": "114:1:1",
+          "start": 0.0,
+          "end": 0.4
+        },
+        {
+          "word": "أَعُوذُ",
+          "location": "114:1:2",
+          "start": 0.48,
+          "end": 1.36
+        },
+        {
+          "word": "بِرَبِّ",
+          "location": "114:1:3",
+          "start": 1.36,
+          "end": 2.08
+        },
+        {
+          "word": "اِ۬لنَّاسِ",
+          "location": "114:1:4",
+          "start": 2.64,
+          "end": 3.04
+        }
+      ]
+    },
+    {
+      "segment": 4,
+      "time_from": 14.402,
+      "time_to": 16.802,
+      "ref_from": "114:2:1",
+      "ref_to": "114:2:2",
+      "matched_text": "مَلِكِ اِ۬لنَّاسِ",
+      "confidence": 1.0,
+      "has_missing_words": false,
+      "has_repeated_words": false,
+      "special_type": null,
+      "error": null,
+      "words": [
+        {
+          "word": "مَلِكِ",
+          "location": "114:2:1",
+          "start": 0.3201,
+          "end": 0.7201
+        },
+        {
+          "word": "اِ۬لنَّاسِ",
+          "location": "114:2:2",
+          "start": 1.1201,
+          "end": 1.5201
+        }
+      ]
+    },
+    {
+      "segment": 5,
+      "time_from": 17.682,
+      "time_to": 20.322,
+      "ref_from": "114:3:1",
+      "ref_to": "114:3:2",
+      "matched_text": "إِلَٰهِ اِ۬لنَّاسِ",
+      "confidence": 1.0,
+      "has_missing_words": false,
+      "has_repeated_words": false,
+      "special_type": null,
+      "error": null,
+      "words": [
+        {
+          "word": "إِلَٰهِ",
+          "location": "114:3:1",
+          "start": 0.0001,
+          "end": 0.4001
+        },
+        {
+          "word": "اِ۬لنَّاسِ",
+          "location": "114:3:2",
+          "start": 1.6001,
+          "end": 2.0001
+        }
+      ]
+    },
+    {
+      "segment": 6,
+      "time_from": 21.94,
+      "time_to": 26.58,
+      "ref_from": "114:4:1",
+      "ref_to": "114:4:4",
+      "matched_text": "مِن شَرِّ اِ۬لْوَسْوَاسِ اِ۬لْخَنَّاسِ",
+      "confidence": 1.0,
+      "has_missing_words": true,
+      "has_repeated_words": false,
+      "special_type": null,
+      "error": null,
+      "words": [
+        {
+          "word": "مِن",
+          "location": "114:4:1",
+          "start": 0.0,
+          "end": 0.24
+        },
+        {
+          "word": "شَرِّ",
+          "location": "114:4:2",
+          "start": 0.72,
+          "end": 1.12
+        },
+        {
+          "word": "اِ۬لْوَسْوَاسِ",
+          "location": "114:4:3",
+          "start": 1.6,
+          "end": 2.72
+        },
+        {
+          "word": "اِ۬لْخَنَّاسِ",
+          "location": "114:4:4",
+          "start": 2.8,
+          "end": 4.56
+        }
+      ]
+    },
+    {
+      "segment": 7,
+      "time_from": 28.267,
+      "time_to": 34.187,
+      "ref_from": "114:5:1",
+      "ref_to": "114:5:5",
+      "matched_text": "اِ۬لذِے يُوَسْوِسُ فِے صُدُورِ اِ۬لنَّاسِ",
+      "confidence": 0.92,
+      "has_missing_words": false,
+      "has_repeated_words": false,
+      "special_type": null,
+      "error": null,
+      "words": [
+        {
+          "word": "اِ۬لذِے",
+          "location": "114:5:1",
+          "start": 0.0,
+          "end": 0.4
+        },
+        {
+          "word": "يُوَسْوِسُ",
+          "location": "114:5:2",
+          "start": 0.48,
+          "end": 1.76
+        },
+        {
+          "word": "فِے",
+          "location": "114:5:3",
+          "start": 1.76,
+          "end": 2.08
+        },
+        {
+          "word": "صُدُورِ",
+          "location": "114:5:4",
+          "start": 2.08,
+          "end": 3.04
+        },
+        {
+          "word": "اِ۬لنَّاسِ",
+          "location": "114:5:5",
+          "start": 3.6,
+          "end": 4.0
+        }
+      ]
+    },
+    {
+      "segment": 8,
+      "time_from": 34.393,
+      "time_to": 38.393,
+      "ref_from": "114:6:1",
+      "ref_to": "114:6:3",
+      "matched_text": "مِنَ اَ۬لْجِنَّةِ وَالنَّاسِۖ",
+      "confidence": 1.0,
+      "has_missing_words": false,
+      "has_repeated_words": false,
+      "special_type": null,
+      "error": null,
+      "words": [
+        {
+          "word": "مِنَ",
+          "location": "114:6:1",
+          "start": 0.0,
+          "end": 0.24
+        },
+        {
+          "word": "اَ۬لْجِنَّةِ",
+          "location": "114:6:2",
+          "start": 0.4,
+          "end": 2.0
+        },
+        {
+          "word": "وَالنَّاسِۖ",
+          "location": "114:6:3",
+          "start": 2.0,
+          "end": 3.92
+        }
+      ]
+    },
+    {
+      "segment": 9,
+      "time_from": 40.014,
+      "time_to": 40.094,
+      "ref_from": "114:4:2",
+      "ref_to": "114:4:2",
+      "matched_text": "",
+      "confidence": 0.667,
+      "has_missing_words": false,
+      "has_repeated_words": false,
+      "special_type": null,
+      "error": null,
+      "words": []
+    }
+  ]
+}
