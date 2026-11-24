@@ -1,0 +1,206 @@
+{
+  "reciter": "fawzi_albarni",
+  "surah": 112,
+  "detected_surah": 112,
+  "surah_mismatch": false,
+  "surahs_present": [
+    112
+  ],
+  "alternate_source": false,
+  "chunk_window": 10.5,
+  "segments": [
+    {
+      "segment": 1,
+      "time_from": 0.0,
+      "time_to": 0.08,
+      "ref_from": "",
+      "ref_to": "",
+      "matched_text": "",
+      "confidence": 0.0,
+      "has_missing_words": false,
+      "has_repeated_words": false,
+      "special_type": null,
+      "error": "Low confidence (0%)",
+      "words": [],
+      "likely_opening": true
+    },
+    {
+      "segment": 2,
+      "time_from": 4.28,
+      "time_to": 7.24,
+      "ref_from": "",
+      "ref_to": "",
+      "matched_text": "",
+      "confidence": 0.0,
+      "has_missing_words": false,
+      "has_repeated_words": false,
+      "special_type": null,
+      "error": "Low confidence (0%)",
+      "words": []
+    },
+    {
+      "segment": 3,
+      "time_from": 7.262,
+      "time_to": 10.502,
+      "ref_from": "112:1:1",
+      "ref_to": "112:1:4",
+      "matched_text": "قُلْ هُوَ اَ۬للَّهُ أَحَدٌۖ",
+      "confidence": 1.0,
+      "has_missing_words": false,
+      "has_repeated_words": false,
+      "special_type": null,
+      "error": null,
+      "words": [
+        {
+          "word": "قُلْ",
+          "location": "112:1:1",
+          "start": 0.0,
+          "end": 0.2397
+        },
+        {
+          "word": "هُوَ",
+          "location": "112:1:2",
+          "start": 0.3197,
+          "end": 0.7197
+        },
+        {
+          "word": "اَ۬للَّهُ",
+          "location": "112:1:3",
+          "start": 0.9597,
+          "end": 1.3597
+        },
+        {
+          "word": "أَحَدٌۖ",
+          "location": "112:1:4",
+          "start": 1.9197,
+          "end": 2.3197
+        }
+      ]
+    },
+    {
+      "segment": 4,
+      "time_from": 11.422,
+      "time_to": 13.102,
+      "ref_from": "112:2:1",
+      "ref_to": "112:2:2",
+      "matched_text": "اِ۬للَّهُ اُ۬لصَّمَدُۖ",
+      "confidence": 1.0,
+      "has_missing_words": false,
+      "has_repeated_words": false,
+      "special_type": null,
+      "error": null,
+      "words": [
+        {
+          "word": "اِ۬للَّهُ",
+          "location": "112:2:1",
+          "start": 0.0,
+          "end": 0.3997
+        },
+        {
+          "word": "اُ۬لصَّمَدُۖ",
+          "location": "112:2:2",
+          "start": 0.7997,
+          "end": 1.8397
+        }
+      ]
+    },
+    {
+      "segment": 5,
+      "time_from": 14.835,
+      "time_to": 18.155,
+      "ref_from": "112:3:1",
+      "ref_to": "112:3:4",
+      "matched_text": "لَمْ يَلِدْ وَلَمْ يُولَدْۖ",
+      "confidence": 0.972,
+      "has_missing_words": false,
+      "has_repeated_words": false,
+      "special_type": null,
+      "error": null,
+      "words": [
+        {
+          "word": "لَمْ",
+          "location": "112:3:1",
+          "start": 0.0002,
+          "end": 0.2402
+        },
+        {
+          "word": "يَلِدْ",
+          "location": "112:3:2",
+          "start": 0.3202,
+          "end": 0.9602
+        },
+        {
+          "word": "وَلَمْ",
+          "location": "112:3:3",
+          "start": 0.9602,
+          "end": 1.2802
+        },
+        {
+          "word": "يُولَدْۖ",
+          "location": "112:3:4",
+          "start": 1.6002,
+          "end": 2.7202
+        }
+      ]
+    },
+    {
+      "segment": 6,
+      "time_from": 18.755,
+      "time_to": 22.915,
+      "ref_from": "112:4:1",
+      "ref_to": "112:4:5",
+      "matched_text": "وَلَمْ يَكُن لَّهُۥ كُفُؤاً أَحَدُۢۖ",
+      "confidence": 0.972,
+      "has_missing_words": false,
+      "has_repeated_words": false,
+      "special_type": null,
+      "error": null,
+      "words": [
+        {
+          "word": "وَلَمْ",
+          "location": "112:4:1",
+          "start": 0.0002,
+          "end": 0.4002
+        },
+        {
+          "word": "يَكُن",
+          "location": "112:4:2",
+          "start": 0.6402,
+          "end": 1.5202
+        },
+        {
+          "word": "لَّهُۥ",
+          "location": "112:4:3",
+          "start": 1.5202,
+          "end": 1.8402
+        },
+        {
+          "word": "كُفُؤاً",
+          "location": "112:4:4",
+          "start": 2.1602,
+          "end": 3.3602
+        },
+        {
+          "word": "أَحَدُۢۖ",
+          "location": "112:4:5",
+          "start": 3.5202,
+          "end": 3.9202
+        }
+      ]
+    },
+    {
+      "segment": 7,
+      "time_from": 25.147,
+      "time_to": 25.227,
+      "ref_from": null,
+      "ref_to": null,
+      "matched_text": "",
+      "confidence": 0.0,
+      "has_missing_words": true,
+      "has_repeated_words": false,
+      "special_type": null,
+      "error": "Dropped: isolated match on surah 113 (file is 112)",
+      "words": []
+    }
+  ]
+}
